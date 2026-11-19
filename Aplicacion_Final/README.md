@@ -1,9 +1,16 @@
-# Aplicación final — Hotel El Almendro
+# Aplicación web — El Almendro
 
-El código fuente operativo se mantiene en el repositorio privado [Pablok00/pruebaelalmendro](https://github.com/Pablok00/pruebaelalmendro). El acceso requiere autorización del propietario.
+Esta carpeta contiene una **copia del código fuente** del sistema de Obras, Mantención y Mejoras.
 
-La aplicación utiliza HTML, CSS y JavaScript, Supabase/PostgreSQL y Vercel. La documentación de [despliegue](../Documentacion_Por_Fases/Fase_3_Implementacion_y_Cierre/03_Manuales_y_Despliegue/02_Guia_Implementacion_y_Despliegue.docx) describe cómo preparar y verificar una publicación autorizada.
+- [Ver los archivos de la aplicación](pruebaelalmendro/)
+- [Manual de usuario por rol](../Documentacion_Por_Fases/Fase_3_Implementacion_y_Cierre/03_Manuales_y_Despliegue/01_Manual_Usuario_por_Rol.docx)
+- [Guía de implementación y despliegue](../Documentacion_Por_Fases/Fase_3_Implementacion_y_Cierre/03_Manuales_y_Despliegue/02_Guia_Implementacion_y_Despliegue.docx)
+- [Plan de pruebas y validación](../Documentacion_Por_Fases/Fase_3_Implementacion_y_Cierre/02_Pruebas_y_Validacion/03_Plan_de_Pruebas_y_Validacion.docx)
 
-Se revisó una copia comprimida `pruebaelalmendro.rar`, que contiene historial `.git` y diferencias entre raíz y `publicacion/`. No debe considerarse automáticamente la versión publicada; no se incorpora aquí para evitar duplicar el repositorio privado o divulgar su código.
+**Tecnologías:** HTML, CSS, JavaScript, Supabase y PostgreSQL; despliegue web mediante Vercel.
 
-**Pendiente:** vincular el commit exacto de la versión final, comprobar el despliegue y documentar pruebas y conformidad.
+El repositorio de desarrollo original es [Pablok00/pruebaelalmendro](https://github.com/Pablok00/pruebaelalmendro). Esta copia académica no se sincroniza automáticamente con él ni acredita que su contenido sea idéntico al desplegado.
+
+**Ejecución local:** abrir `pruebaelalmendro/` en un servidor HTTP local y acceder a `login.html`. La configuración del cliente puede conectarse a servicios alojados; no utilizar datos reales para pruebas sin autorización.
+
+**Nota:** el código disponible en GitHub no equivale a una exportación de la base de datos ni a un instalador completo de Supabase.
