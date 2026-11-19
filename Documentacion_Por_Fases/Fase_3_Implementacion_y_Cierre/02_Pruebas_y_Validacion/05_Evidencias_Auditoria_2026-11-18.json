@@ -1,0 +1,3393 @@
+{
+  "date": "2026-11-18",
+  "scope": "Auditoría local sin operaciones remotas",
+  "git": "Sin .git; rama, remoto, historial y SHA no verificables. README informa Pablok00/pruebaelalmendro main; no constituye verificación Git.",
+  "version": "LOCAL-20261118-ad0daa2e9bdd",
+  "source_manifest_sha256": "ad0daa2e9bdd886f2d05013924d2e43df5bc090879063bb9610affda4428540d",
+  "sources": [
+    {
+      "path": "AGENTS.md",
+      "sha256": "6aa24fbe9d27b5a7a3cb5d8f3f6136082899897423682fb5adbd9688e8a0f235",
+      "lines": 40,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "index.html",
+      "sha256": "af8e7e833393a079f7fbb1e67ecda02cbbaea61ae883c9c5c3e003ace1925146",
+      "lines": 793,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "login.html",
+      "sha256": "7512afabceee1f646b295b5487591278ccb07f4758b5659038af32c536d9c9c8",
+      "lines": 378,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "README.md",
+      "sha256": "a1d6a4a898d72dc51bba19ab0eb45943af95dc6e8d49aed22743e486ef02a3cc",
+      "lines": 11,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "recuperar-password.html",
+      "sha256": "2db30bd678c9ece300f68caff8f8863e3b9b9cfddb9550d67dcf31d3a422aed4",
+      "lines": 44,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "registrar.html",
+      "sha256": "1549716451cfabc26b171dcb71baec05fab73fd58bdd26d7525a39986a22d22c",
+      "lines": 150,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/BITACORA_CAMBIOS.md",
+      "sha256": "c5ba8f78244f1167fb91e6f265bb24ef641c682a5bb054c7145f93e011d70c5a",
+      "lines": 2009,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/ESTADO_PROYECTO.md",
+      "sha256": "ecee919fe3b24d600af9213b985c76b710ec585557c7b08526c0f503edc87d6f",
+      "lines": 1364,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/HANDOFF_TECNICO.md",
+      "sha256": "e435bdec9a041b9a1340e6f8a0452ee2a8095358fd4bcd2135d80e5ae04a5bdd",
+      "lines": 2369,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/inventario_estatico_rutas_protegidas.json",
+      "sha256": "6de7c922b8ea949d0bd9928c0d64c65d93e5e39e3293cced5853c4336914c122",
+      "lines": 1632,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/manifiesto_historico_recepcion_no_acreditado.json",
+      "sha256": "6ff986eeb2e30d7d62d1b0f9ae2233629f2f864ba66c42c74c361a9a96985f88",
+      "lines": 334,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/adminAcceso.js",
+      "sha256": "a6d0b634ce447474dedf386261e8f84012fc610d451a44f9a260fac566aab34d",
+      "lines": 214,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/app.js",
+      "sha256": "13fa42972981a68d2a4e3769ad45fa46c45701d4af7bfe095b4faa52f3b02d68",
+      "lines": 1486,
+      "rpc_literals": [],
+      "table_literals": [
+        "roles",
+        "usuarios"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/avisosSolicitudes.js",
+      "sha256": "b20c7d9b04133403b87cfa978f91287bb7c3a7a095fa4b096d9a3d41ad5d2414",
+      "lines": 642,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/controlSesion.js",
+      "sha256": "74f07f6c69d13ad6096e808a7727bdbe32466a9b80e8fc117e963c7bc0112a0b",
+      "lines": 75,
+      "rpc_literals": [],
+      "table_literals": [
+        "usuarios"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/modals.js",
+      "sha256": "ce6c02edef4c29f0387868612a12a921a072954a6f2f18cbef06fd02a07b778f",
+      "lines": 1224,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/recuperarPassword.js",
+      "sha256": "ac853f2dabfb9aed216d106ad51e1a06e3057640e9c23a70c611daa8d74cccc6",
+      "lines": 143,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/registrar.js",
+      "sha256": "2834881bf21424aa515ecb697356d0173117ba7e40c2762a3b56306c95d91452",
+      "lines": 199,
+      "rpc_literals": [],
+      "table_literals": [
+        "usuarios"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/seguridadPersonal.js",
+      "sha256": "708f7150ccab7149c4bc3ff96f67301dfe463563f2cfe25c81b75ddc68dd135e",
+      "lines": 95,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/state.js",
+      "sha256": "cce328464b80080556ac6d1332c34df8a169c29215234be3dcc2d904f1c9b7dc",
+      "lines": 902,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/conservacion-historica.mjs",
+      "sha256": "5b923edf6819548fb11869c3772a605bf35ab11dd27fbb1fa0ab5ef82b324303",
+      "lines": 62,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/contratos-instalados.mjs",
+      "sha256": "4353aa315c8e296aa4a3a4aab2f59d8dc1b01113e015e717e69a7f936dbd4fe6",
+      "lines": 53,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/cuentas_documentos_borrado_sql.test.mjs",
+      "sha256": "f597e5933677ea4b2c4f0828ac3fcbe92ac8798e9c162fe180805e605bfb227c",
+      "lines": 109,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/gestion_tareas.test.mjs",
+      "sha256": "c1d4d7eb49279478d538469b58791cb2ecdecdffabd96c2b0d8fc58ac83d9e93",
+      "lines": 554,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_admin_acceso.js",
+      "sha256": "138cf0b89f2f9523a775acfb434eef2aa2d09cf2cfe65f1606ecdf4dd58d9f2f",
+      "lines": 42,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_admin_eliminacion_ui.js",
+      "sha256": "c0bc7c92e22a3875c3d575b62a643b05be8290533fb4df64ad64daa087c983a4",
+      "lines": 181,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_admin_reautenticacion.js",
+      "sha256": "b4c3beb720c5798d445afe90ab5f72ce9bec06608b6fe3e9b1ef7695445e1b81",
+      "lines": 94,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_areas.js",
+      "sha256": "3f6c817bb04ebabf38069167e429305b5022c854fab801ea974f5f655a2d2d7a",
+      "lines": 444,
+      "rpc_literals": [],
+      "table_literals": [
+        ", "
+      ],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_auth.js",
+      "sha256": "83764b1270c7b09a03ff20d63479ff7b74c65685b443554b141baabef176c38b",
+      "lines": 416,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_banos.js",
+      "sha256": "6c5c5b7f1c9846ab6b2a94f40312c843a38d9a637db53cba0f9ad1fd3adaf9de",
+      "lines": 110,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_bodegas.js",
+      "sha256": "0cbc578dc4ae26c8cf65e4b275cca277ae9c01ed0716d8ee37398f1a18542f32",
+      "lines": 126,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_c2e3.js",
+      "sha256": "37e85ccc1ad454adcfc65ed37e96e32d4731b19f51512310528292cfcdcf9568",
+      "lines": 2096,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_configuracion.js",
+      "sha256": "8be60d1989f4848fc4ea437d567693c301f813cc3ff1924dbc48460c0c5c5766",
+      "lines": 20,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_dashboard.js",
+      "sha256": "495b5f1281ce0f75d0aed14b0d12457f8733f1b598a9682684a097f77328fb34",
+      "lines": 125,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_gantt.js",
+      "sha256": "f8f76b8a4e1d15debc788e3ec87ee186269b78dca22f105fc77acfb85a15a13a",
+      "lines": 96,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_gantt_edicion.js",
+      "sha256": "5482b33866e3f3ade1080efbe59fd76a650749a53b3e8e7e560999f79a1cd9e1",
+      "lines": 75,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_historial_sesion.js",
+      "sha256": "41c5a2ad8883dc20b3a1c1cb9c2a3c2122c0c2f637215b5da2dcf98de7616e6a",
+      "lines": 30,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_inicializacion.js",
+      "sha256": "2f8290d48707cd743aa60fbbd3c99742c830c582727a44667f6054ea770b6f10",
+      "lines": 7,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_inv4.js",
+      "sha256": "875a93a6808d332b07735e0d107deb4b6a47286ee9db248af53dccd4e72e03df",
+      "lines": 2385,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_inv_fichas.js",
+      "sha256": "40a9636b8a23de980009ff082d0636da6da721d4417af690d52629134fc52ead",
+      "lines": 60,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_logout.js",
+      "sha256": "bab9ba3efabb166d74ad5e9450a158439d2a7c55444e3d2ffd054527a71b6f2e",
+      "lines": 28,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_notificacion_rechazo.js",
+      "sha256": "be1699ca196356dd7cd36040b07addafdf33eec2cbc62773385f40d8311c8334",
+      "lines": 115,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_prevercel0.js",
+      "sha256": "b71a6636f21a7e0866babab7a3bcad4755383c4868889e12eeb5b90990215697",
+      "lines": 25,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_prevercel3.js",
+      "sha256": "14fd19c58535c3196f5b694fa0cb2b6c1c7837db9f1f49dba1551ea2e5a84a9e",
+      "lines": 27,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_reactiva_broadcast.js",
+      "sha256": "25a0ace0c7d6058c342bead9bad9a1708dc88cd25020d4dec22cce099a97e74c",
+      "lines": 92,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_reactiva_broadcast_ui.js",
+      "sha256": "03a2a47bb6038c82bcff6e906b631d1b59ad5c39b67d47677efdde147a6ca8dd",
+      "lines": 52,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_reactiva_eliminacion.js",
+      "sha256": "d8aed539a2bed9bf93b57256bbbb735aa6811d3b6fa0bf408c51ff13a27c0e95",
+      "lines": 165,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_reactiva_eliminacion_carga.js",
+      "sha256": "12f3683d1adc1bf547234cf14468c0a01c2dae8c107de443d02f2cd756e6f7a5",
+      "lines": 84,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_reactiva_eliminacion_sesion.js",
+      "sha256": "d00afbbe8580d1b045facf38b4e46a831ad69d0f94ff787d3c27835014dacf60",
+      "lines": 85,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_reactiva_eliminacion_ui.js",
+      "sha256": "d47e4293fcb25f2d108de571d5576d8ad027adcf6be7ed2d8c1b590d20a9febd",
+      "lines": 218,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_reactiva_multisesion_correcciones.js",
+      "sha256": "5dc92d6a22743f7080d4868e800b28f261e42bed603e6a5af1e544671cd2dfd7",
+      "lines": 36,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_reactiva_multisesion_correcciones_ui.js",
+      "sha256": "33cb0406a4a5696e7fc177b18974ce5e93cd4ed9c08c9c69d1ab48a836be6b01",
+      "lines": 107,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_solicitudes_consulta.js",
+      "sha256": "fbcc9e041a0b15bd19ccdf3e2e0c5b8b0646efc474570cbf590cc5e03e13bbaa",
+      "lines": 86,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_tailwind.js",
+      "sha256": "37eaad63612c6b8c34cbbd1b66d535ac60f6ceb2f335d07b3a654502010864a0",
+      "lines": 9,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_usuarios_gestion.js",
+      "sha256": "dee27bb50829055c46e0f1e001d7bd8814165ee0faf03a84a748a1d52e55c56f",
+      "lines": 145,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/harness_ux02_modales.js",
+      "sha256": "be7febee4fb72c686601b8768f7c2705c9c84355d2ffa389bb669124c025949b",
+      "lines": 48,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/trabajadores_organizacion.test.mjs",
+      "sha256": "569d6fc10d0880c9808bc1b98d1cecd14b0ce28edda45eafc75f459f10a8ccdc",
+      "lines": 2107,
+      "rpc_literals": [
+        "trabajadores_listar_cuentas_sistema_v1"
+      ],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_adaptador_sql_instalado.test.mjs",
+      "sha256": "ddc2da3a35aeca78467776d1653871603a47fb1287146dceead6da184ba73b89",
+      "lines": 1163,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_certificacion_recepcion_propuesta.test.mjs",
+      "sha256": "b02f32a9571e6184bd81390ab45f994c25604ff24e4bf4ebf04d1535f8782607",
+      "lines": 72,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_conservacion_historica.test.mjs",
+      "sha256": "49cba86398304d7a3e1aa620a89d6e28d4673131622969ac1ebbe8ae71cee0f5",
+      "lines": 82,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_conservacion_previa.test.mjs",
+      "sha256": "ab7b259b2c8e8da10cc46ef401d216b49734e7be597505d0150d1f4a210f8ff8",
+      "lines": 288,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_contratos_instalados.test.mjs",
+      "sha256": "d65efcbeda0b1ef2f704c3308a4300ff1e435e8ecf90c85932476abdeedf8bcc",
+      "lines": 60,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_eliminacion_coordinar.test.mjs",
+      "sha256": "d27f3437771280d2da98c3687ad21cc57e5ca9230a140f6347a0e6e201eb9e6f",
+      "lines": 664,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_eliminacion_http.deno.mjs",
+      "sha256": "596c91103cc4c261820527832e9fee2ec2cff1d9320a722e3f773b92593008c2",
+      "lines": 205,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_eliminacion_preparar.test.mjs",
+      "sha256": "82203eff93164bcff7608d955f279871d3db5aa68bf2e3d1430ae83f259d3aaa",
+      "lines": 177,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_eliminacion_previsualizar.test.mjs",
+      "sha256": "75125c8a87317d6b6d5318b355a6ba6fb4d477f0731edba41b165585bdb5c82d",
+      "lines": 521,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_invitaciones.test.mjs",
+      "sha256": "b692ddcf318684ad0f3c702f8bcbb2d34a92c6388fddaa0106f3fdcee9a048f0",
+      "lines": 1660,
+      "rpc_literals": [
+        ","
+      ],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_previsualizacion_frontend.test.mjs",
+      "sha256": "886c99dff074923b237e15730c4ca3351ec55dae0eabac994698ac884c0f7671",
+      "lines": 231,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_reautenticacion_servidor.test.mjs",
+      "sha256": "cb4958a693c9f4ae29ca8579136faaec19bc5d36311bc22aa3a8a91af3c705b9",
+      "lines": 94,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/usuario_seguridad_paso192.test.mjs",
+      "sha256": "7affc7798b0ef5f8fdd9a9495bb72ddb38fbfb56f29c55402ff913286bd81b90",
+      "lines": 131,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tools/auditar-rutas-eliminacion.mjs",
+      "sha256": "d0507f298411b74bd52c5bc32c0c054c2379dada9b1eda9765dbd61f02a529cd",
+      "lines": 96,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tools/tailwind.config.cjs",
+      "sha256": "6bf9d021b5a52655fa673ff8c860f21c71ae166dc043b3fa478652e01a8241a6",
+      "lines": 13,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/sql-propuestas/21f45_responsables_instalacion_protegida.sql",
+      "sha256": "f8c1d99f36b10efbd9aa44ae827be3897e46a1a4d01dbc4ccde6eea2333c19cb",
+      "lines": 445,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/sql-propuestas/captura_historica_contratos_instalados.json",
+      "sha256": "e8e08d29358ca81b8708ac1799ed484d10bf9353ae94d57dd9a05925ecc09635",
+      "lines": 470,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/sql-propuestas/fuente_historica_recuperacion_manual_general.sql",
+      "sha256": "648903d007c28e8528bc1f83c9727cdc5578eef34e98793f3100393ae456673b",
+      "lines": 351,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/sql-propuestas/inspeccionar_metadatos_rutas_solo_lectura.sql",
+      "sha256": "9ef8b6f9f3d3c6e58ca49040c028a153313332005755de5814c121c73bf291f9",
+      "lines": 146,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/sql-propuestas/instalador_historico_inicio_general_recepcion_tecnico.sql",
+      "sha256": "88571393299f500e6683422e913831f4dd21cf8d52d18f0461c2868fae54d5ef",
+      "lines": 390,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/sql-propuestas/instalador_historico_piloto_recepcion.sql",
+      "sha256": "28347ee8f34013f000e0b2eed8d8ca85eb6e0dcdb73b441a343cb8e52644edc2",
+      "lines": 319,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/sql-propuestas/propuesta_idempotencia_operaciones_no_acreditada.sql",
+      "sha256": "52987ba26797f8310e7d75fabcdcc4e591d467094c8f8f5d3a10f7f2ea887e48",
+      "lines": 43,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "docs/sql-propuestas/recuperar_contratos_instalados_solo_lectura.sql",
+      "sha256": "95fda73c00886f474e24d5b5223f1cf81b34ac542d90840897cb4f2333331ab6",
+      "lines": 92,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/components/calendarioMensual.js",
+      "sha256": "6dd11dfd431037fbdaf7066191f13a6b2ae7f6941fb3a574ca82fbbbb3e74ae1",
+      "lines": 97,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/components/ganttCarta.js",
+      "sha256": "1f21b286cb3e16510d22af308a9c8a1e98734fb3566cd61f4f33e308b297960a",
+      "lines": 574,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/config/supabaseClient.js",
+      "sha256": "862370f32c40b3559cdcc8f8ae3f71ef4ec3f9556628053ef34db2c37e6357c3",
+      "lines": 110,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/services/avisosSolicitudes.service.js",
+      "sha256": "b1450203b40ed47d1490a6c7941784ab30fbd77b9c9f8b8f468a00358db879f5",
+      "lines": 59,
+      "rpc_literals": [
+        "listar_avisos_solicitudes",
+        "marcar_aviso_solicitud",
+        "marcar_notificacion_revision_leida"
+      ],
+      "table_literals": [
+        "solicitudes_notificaciones_revision"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/services/ganttProyectos.service.js",
+      "sha256": "3d6c5afafd9c50cfa66d1432783c25a504526178fd2b294d5eb1c3caf18c4172",
+      "lines": 38,
+      "rpc_literals": [
+        "gantt_proyecto_leer"
+      ],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/services/gestionTareas.service.js",
+      "sha256": "9205faaef35bafbde460e12b3c36b220f4e05d714407c144443c2f1188fdbd29",
+      "lines": 220,
+      "rpc_literals": [
+        "tareas_pendientes_consultar_v1"
+      ],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/services/historial.service.js",
+      "sha256": "35f73ecad51f72f146d1702659c91f9dfa7a2e7da258c7362da857d7f7ea52da",
+      "lines": 494,
+      "rpc_literals": [
+        "mantencion_anular_historial",
+        "mantencion_registrar_evento",
+        "mantencion_revisar_estado"
+      ],
+      "table_literals": [
+        "mantencion_historial",
+        "mantencion_historial_anulaciones"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/services/inventario.service.js",
+      "sha256": "6ee2106f9b3bbb52456ac4d991e04117dbe4dea0e026ba60d866e2589d93359b",
+      "lines": 1057,
+      "rpc_literals": [],
+      "table_literals": [
+        "movimientos_inventario",
+        "ubicaciones"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/services/mantenciones.service.js",
+      "sha256": "47db1b8ac219ce70c86246b77ee0863c7b3680387121cf73a5e957029739cc00",
+      "lines": 2240,
+      "rpc_literals": [
+        "bodega_registrar_inventariado",
+        "guia_contenido_guardar_guia",
+        "guia_contenido_guardar_item",
+        "guia_contenido_guardar_seccion",
+        "guia_contenido_reordenar",
+        "jardineria_labor_actualizar",
+        "jardineria_riego_nota_actualizar",
+        "jardineria_riego_programacion_actualizar",
+        "jardineria_riego_zona_actualizar",
+        "jardineria_sector_actualizar",
+        "jardineria_trabajo_actualizar",
+        "mantencion_anular_mantencion",
+        "mantencion_registrar_mantencion_v3",
+        "mantencion_responsables_consultar_v1",
+        "prevencion_gantt_guardar_fase",
+        "prevencion_gantt_guardar_item",
+        "prevencion_gantt_guardar_plan",
+        "prevencion_gantt_reordenar",
+        "tv_habitaciones_eliminar_v1",
+        "ubicaciones_crear_v1"
+      ],
+      "table_literals": [
+        "bodegas_inventariados",
+        "comentarios_excel",
+        "contactos_servicio_fosas",
+        "elementos_mantenibles",
+        "fosas_alcantarillado",
+        "fosas_mantencion_fuente",
+        "guia_mantencion_items",
+        "guia_mantencion_secciones",
+        "guias_mantencion",
+        "importaciones_excel",
+        "inventarios_elementos",
+        "jardineria_labores_complementarias",
+        "jardineria_riego_notas",
+        "jardineria_riego_programacion",
+        "jardineria_riego_zonas",
+        "jardineria_sectores",
+        "jardineria_trabajos",
+        "listado_engrase_aceitado",
+        "mantenciones",
+        "mantenciones_operativas",
+        "mantenciones_operativas_anulaciones",
+        "mantenciones_operativas_responsables",
+        "prevencion_gantt_fases",
+        "prevencion_gantt_items",
+        "prevencion_gantt_planes",
+        "prevencion_gantt_segmentos",
+        "televisores_habitaciones",
+        "ubicaciones"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/services/mantencionesReactivas.service.js",
+      "sha256": "f110906efb828b4846571a995f9003b4e90084a5042799201deb1dd0f5ac0956",
+      "lines": 145,
+      "rpc_literals": [
+        "mantencion_reactiva_asignar",
+        "mantencion_reactiva_cambiar_estado",
+        "mantencion_reactiva_reabrir"
+      ],
+      "table_literals": [
+        "mantenciones_reactivas",
+        "mantenciones_reactivas_ciclos",
+        "solicitudes_reactivas_eventos",
+        "trabajadores"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/services/mejoras.service.js",
+      "sha256": "8c9a76eb2bb8bddfc3747b172a07642ae3d5794061b771506df1f71f8ea36b3a",
+      "lines": 353,
+      "rpc_literals": [],
+      "table_literals": [
+        "metas_area",
+        "pendientes_mantencion",
+        "plan_anual_items",
+        "plan_anual_pendientes",
+        "planes_anuales",
+        "proyectos",
+        "tareas"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/services/prevencionDocumentos.service.js",
+      "sha256": "e2ed15b0817fa3a1b409da963a3ef6dc97dea25d473607636159700d3c3060f7",
+      "lines": 466,
+      "rpc_literals": [],
+      "table_literals": [
+        "prevencion_documentos"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/services/remodelaciones.service.js",
+      "sha256": "247a6d70e96c9cb3c8047c27f0b05cd4055316eee832903e77bee7d75d40faf0",
+      "lines": 350,
+      "rpc_literals": [],
+      "table_literals": [
+        "gastos",
+        "importaciones_excel",
+        "movimientos_inventario",
+        "origen_registros",
+        "presupuesto_items",
+        "presupuestos",
+        "proveedores",
+        "proyectos",
+        "tareas"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/services/solicitudes.service.js",
+      "sha256": "2910c2fed542961b74e39f002f8a93b5545d8dcccac214e532595f940c9786d8",
+      "lines": 227,
+      "rpc_literals": [
+        "solicitud_reactiva_crear_aprobada",
+        "solicitud_reactiva_decidir",
+        "solicitud_reactiva_eliminar_definitiva"
+      ],
+      "table_literals": [
+        "mantenciones_reactivas",
+        "solicitudes_reactivas"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/services/tareasPendientes.service.js",
+      "sha256": "d6fb8dd8efce6674381259da6a19a4e83c0ee6778235c7eb164539dea7311100",
+      "lines": 20,
+      "rpc_literals": [],
+      "table_literals": [
+        "tareas_pendientes"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/services/trabajadores.service.js",
+      "sha256": "372398b53ea9e4397a347df650aa819fd03b0a44dcb0c1e386ab758f4dae199f",
+      "lines": 855,
+      "rpc_literals": [
+        "cuentas_documentos_confirmar_retiro_v1",
+        "cuentas_documentos_reservar_retiro_v1",
+        "es_administrador_actual",
+        "trabajadores_listar_cuentas_sistema_v1",
+        "usuarios_trabajadores_gestionar_v1",
+        "usuarios_trabajadores_listar_cuentas_v1"
+      ],
+      "table_literals": [
+        "cuentas_documentos",
+        "documentos-cuentas",
+        "trabajadores"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/services/trabajadoresDocumentos.service.js",
+      "sha256": "3e54ce08b213ed9d39ca7788268d1263280d606781a55d2514d252e0c292c310",
+      "lines": 416,
+      "rpc_literals": [],
+      "table_literals": [
+        "trabajadores_documentos"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/services/usuarios.service.js",
+      "sha256": "3d1ca20f6ed5e20990bd47e503d346ceac08ae206608b2051bbd937af8190753",
+      "lines": 1068,
+      "rpc_literals": [
+        "aprobar_usuario_normal",
+        "mi_estado_administrativo",
+        "otorgar_administracion_temporal",
+        "revocar_administracion_temporal"
+      ],
+      "table_literals": [
+        "administraciones_temporales",
+        "roles",
+        "usuarios",
+        "usuarios_correos_verificados",
+        "usuarios_gestion_auditoria",
+        "usuarios_sesion_cambios"
+      ],
+      "jira": []
+    },
+    {
+      "path": "js/views/activos.js",
+      "sha256": "759cec43dc69b38d8908fb92ae86213fa64b0a9bc24051b053ecec01e479efde",
+      "lines": 5,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/admin.js",
+      "sha256": "4741616787e055b077852fa3fa768097ec4105411f49f28a7ee8cb23443fe5f1",
+      "lines": 2958,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/areas.js",
+      "sha256": "4465ff2d3dbe8d97bb28fa666f53545dc036ae8400e8c69167ded3311cebe9af",
+      "lines": 1086,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/configuracion.js",
+      "sha256": "60af089d91430e7414a4108230c50040028cdaac6695fa209a7bfa979461a439",
+      "lines": 59,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/dashboard.js",
+      "sha256": "57d0b82e59e95e16352d1f0cc44313b0c1408d3046ccd2311efb69c5fc636649",
+      "lines": 156,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/gantt.js",
+      "sha256": "e4771635c459d250532aa3deb0201476f05ab112d3906dc2ba6184033534782b",
+      "lines": 253,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/gestionTareas.js",
+      "sha256": "791a5703630cf48270416a254598a591a605e6e976031bed0ea10491fe325b87",
+      "lines": 805,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/importar.js",
+      "sha256": "12c73aeb6f1b1299cb6cd85f4e6cb3f35da057505c8eeb94d6182ca73bc93c4d",
+      "lines": 4,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/inventario.js",
+      "sha256": "5a66bd32dba17b9d993d90e0079fa1ba2018924124c428184b5dc54d7f725725",
+      "lines": 3084,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/jardineriaArea.js",
+      "sha256": "8b076c6f7afda7ff0c5c1e36b4ae7498c7a552b12c6d75f7b84bfe2e3a263c5b",
+      "lines": 259,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/mantenciones.js",
+      "sha256": "8c20a18cbd7e88ccd3c9c90bed70a674ec03cd15dde9cea4569f676c7e24187a",
+      "lines": 17591,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/mejoras.js",
+      "sha256": "5902887122e36b45872bcfb70c0621a7deaddb4e5fb6e15cae9034e296cb74c0",
+      "lines": 1757,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/notificaciones.js",
+      "sha256": "93709a6b1710817ea6d433ef56c1c12b276b7663bb551f6c8939c389336c7c9a",
+      "lines": 9,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/pendingAccount.js",
+      "sha256": "81ba095f9717d700da7775b83292f7952fc66f2e242084f240781760764a2d58",
+      "lines": 145,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/prevencionista.js",
+      "sha256": "cbb69e321d0ff674c46f51af1cba00f2a794c0a64d1c056fa8cea84686678990",
+      "lines": 2580,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/reactiva.js",
+      "sha256": "07c2e073be0778517d71d1548d2a807a7bf669d03ca9506548e95236408d1412",
+      "lines": 780,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/remodelaciones.js",
+      "sha256": "0a904237ec149ecfa3b9997a3eb286b0cc33cb3fd81602e5360ca27a40f50c4c",
+      "lines": 269,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/solicitudes.js",
+      "sha256": "7f2694cb96191b94a318969cc69389cd91993025bf5354782cf3444688c0ae28",
+      "lines": 722,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/tareasPendientes.js",
+      "sha256": "91233a988f6cbb36506e997f7158cd5fe1b27a2da601a946fc74bebb5ce08778",
+      "lines": 521,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "js/views/trabajadores.js",
+      "sha256": "a7f1d6ca3dd14cd389b5d400f87568e59a3f65b69f4e18e9b6fea0ba24959974",
+      "lines": 1993,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/sql-propuestas/20261113_conservacion_cuentas_revision.sql",
+      "sha256": "bd46252b7deeba56fb911b8153863314a508149220061d03bec7b70d08779604",
+      "lines": 2400,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/sql-propuestas/20261114_cuentas_documentos_borrado_revision.sql",
+      "sha256": "89c91510de7918e13f7828bbe74fd099af9fc9a116a1540a51f4758cfeff0851",
+      "lines": 701,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-ejecutar/index.ts",
+      "sha256": "23bdd9a2f941138e46f6909908071facb74ce750cea78dd4dd60e66978d8739c",
+      "lines": 403,
+      "rpc_literals": [
+        "mi_estado_administrativo"
+      ],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/adaptador-sql-instalado.mjs",
+      "sha256": "4ae57950e8b1a9d8e31259a1c9d5387d7c6dea75343377dd792a3f549d101ea2",
+      "lines": 993,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/conservacion-previa.mjs",
+      "sha256": "fb418c3e132ec592e57cd67f6fd40767ec4e2c5179588d3cb261d887e20501ab",
+      "lines": 401,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/database-safety.mjs",
+      "sha256": "50e47ec6bce576661f5fa033806823d2f2d043a590ae4ff8190c3a0a57c7da44",
+      "lines": 114,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/eliminacion-coordinar.mjs",
+      "sha256": "8a6923864a8947922b4b8fdcf0fdb7e883e707185483a6d48c0ca5fb0889e720",
+      "lines": 197,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/eliminacion-preparar.mjs",
+      "sha256": "dbd8313c44dd1056184623d5fa3483ce50148ec21827343109d11c9e9b97a1ee",
+      "lines": 142,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/handler.mjs",
+      "sha256": "82e703b72edf988e1b585ac90e8490945125074b54373785d40d8f90b9da7f24",
+      "lines": 150,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/index.ts",
+      "sha256": "31e619858ad0f4da1d33490109d4f683b755a06e0b4d926f464c43362a9ffb40",
+      "lines": 155,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/README.md",
+      "sha256": "edc23d85bb535f5add59e761e37e1aadcac791fe422a4957eadd8914412306b8",
+      "lines": 11,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/reautenticacion-servidor.mjs",
+      "sha256": "ddfe91a0957c63b67a0a66966bf0ced231ba7d113f4ac1de363244dd52219f44",
+      "lines": 116,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-invitaciones/documentos.mjs",
+      "sha256": "468908ea115ce307ae21a50d422bbb90b6e9ab56981b48d938830640523b4f90",
+      "lines": 293,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-invitaciones/index.ts",
+      "sha256": "360db00be17bf148dd306a37ee53803eb708b153b326fddfc72a2019907ac5ef",
+      "lines": 118,
+      "rpc_literals": [
+        "es_administrador_actual"
+      ],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-invitaciones/invitaciones.mjs",
+      "sha256": "3c4698eb5bce0473f43a323d50b3c798e54f2bcaa40b044722499f8cbdbb99bc",
+      "lines": 231,
+      "rpc_literals": [
+        "mi_estado_administrativo"
+      ],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-invitaciones/manual-store.mjs",
+      "sha256": "82e2ec39a40e5d75066493a39264324d9fd42696534cda4aec3c062952c075f0",
+      "lines": 247,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-invitaciones/manual.mjs",
+      "sha256": "b9b09646cf771040ecfc7fed54b37a01e9d6781cc895779764401e4a0d168c62",
+      "lines": 173,
+      "rpc_literals": [
+        "aprobar_usuario_normal",
+        "usuarios_trabajadores_gestionar_v1"
+      ],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "supabase/functions/usuario-invitaciones/postgres-store.mjs",
+      "sha256": "4479ae8c1df01c671cf8429fb4207c865bc2375a1a8a26e8112dc077fa4c9e63",
+      "lines": 310,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/manual/gestion-tareas.html",
+      "sha256": "04d38227e2832e0d13de90f08fb025da29fcd95c63bcd44823bb0968829f338d",
+      "lines": 25,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    },
+    {
+      "path": "tests/manual/gestion-tareas.mock.js",
+      "sha256": "74b96964f24e1c6ef16ee01f2ad7394baddeadc29bd06eb502c56273aaf3a966",
+      "lines": 170,
+      "rpc_literals": [],
+      "table_literals": [],
+      "jira": []
+    }
+  ],
+  "runs": [
+    {
+      "id": "T01",
+      "command": "node --test tests/gestion_tareas.test.mjs",
+      "environment": {
+        "GESTION_TAREAS_TEST_RAIZ": "1"
+      },
+      "exit_code": 0,
+      "passed": 25,
+      "failed": 0,
+      "output": "✔ la vista administrativa respeta ambos estados de la bandera RPC (4.5221ms)\n✔ index y ruta seleccionados renderizan solo el módulo nuevo (1.391ms)\n✔ Máquinas navega a Gestión con la máquina aun cuando las RPC están cerradas (1.501ms)\n✔ mutaciones mapean los contratos instalados y envían una solicitud por operación (1.5278ms)\n✔ transporte incierto conserva el payload exacto tras recargar y aísla por actor (1.479ms)\n✔ bloquea dobles envíos y libera solicitudes rechazadas por revisión (0.8035ms)\n✔ protege retiro, acciones administrativas y lecturas durante un cambio de sesión (1.409ms)\n✔ paginación y calendario usan cursores separados, filtros y fechas civiles (1.1616ms)\n✔ navegación contextual prepara una sola entrada de Gestión y nunca crea desde Máquinas (0.6524ms)\n✔ el servicio anterior seleccionado conserva solo lectura de Máquinas (0.9459ms)\n✔ un intento incierto administrativo se conserva si vence la delegación (0.738ms)\n✔ una tarea confirmada se actualiza por UUID y su retiro limpia la lista sin duplicarla (0.611ms)\n✔ la vista aislada carga la vista real y bloquea red, Auth y cliente productivo (0.9555ms)\n✔ un fallo de carga se distingue de permisos y de una lista vacía (1.4484ms)\n✔ Nueva tarea permite agregar y quitar responsables, evita duplicados y omite filas vacías (2.0761ms)\n✔ 373F carga principal sobrevive al enriquecimiento fallido; calendario e historial conservan snapshots (2.4491ms)\n✔ 374G tareas activas, asignaciones e historial sin claves no llaman a Edge ni consultan sesión adicional (1.1288ms)\n✔ 374G render principal no espera etiquetas; duplicados en curso comparten RPC y enriquecimiento (6.265ms)\n✔ 374G invalidación por sesión, permisos o mutación impide reutilizar una lectura antigua (1.8027ms)\n✔ 374G Mis trabajos consulta tareas distintas en paralelo y deduplica las repetidas (1.1402ms)\n✔ 373F historial laboral usa RPC autorizada para asignaciones y tareas, sin SELECT directo (0.9526ms)\n✔ FIX-01: configuración real activa, contrato alineado y sin CRUD antiguo publicado (0.904ms)\n✔ FIX-01: ficha Máquina conserva histórico y ofrece programación solo con administración (0.3802ms)\n✔ FIX-01: calendario de Máquinas separa tareas e histórico y no inventa fechas (2.2531ms)\n✔ FIX-VERCEL-01: CSS común cubre calendario de Máquinas con siete columnas y navegación (0.6027ms)\nℹ tests 25\nℹ suites 0\nℹ pass 25\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 112.6263\n\n",
+      "status": "Aprobado",
+      "failed_names": [],
+      "interpretation": "Ejecución local aprobada; mocks/VM o análisis estático. Sin certificación de producción.",
+      "requirements": [
+        "AUD-CAP-09",
+        "AUD-CAP-10",
+        "AUD-CAP-26"
+      ],
+      "module": "Gestión de tareas / Tareas / Transversal"
+    },
+    {
+      "id": "T02",
+      "command": "node --test tests/gestion_tareas.test.mjs",
+      "environment": {},
+      "exit_code": 0,
+      "passed": 25,
+      "failed": 0,
+      "output": "✔ la vista administrativa respeta ambos estados de la bandera RPC (4.4025ms)\n✔ index y ruta seleccionados renderizan solo el módulo nuevo (1.4081ms)\n✔ Máquinas navega a Gestión con la máquina aun cuando las RPC están cerradas (1.458ms)\n✔ mutaciones mapean los contratos instalados y envían una solicitud por operación (1.5084ms)\n✔ transporte incierto conserva el payload exacto tras recargar y aísla por actor (1.4833ms)\n✔ bloquea dobles envíos y libera solicitudes rechazadas por revisión (0.8133ms)\n✔ protege retiro, acciones administrativas y lecturas durante un cambio de sesión (1.3762ms)\n✔ paginación y calendario usan cursores separados, filtros y fechas civiles (1.1266ms)\n✔ navegación contextual prepara una sola entrada de Gestión y nunca crea desde Máquinas (0.6497ms)\n✔ el servicio anterior seleccionado conserva solo lectura de Máquinas (0.962ms)\n✔ un intento incierto administrativo se conserva si vence la delegación (0.7267ms)\n✔ una tarea confirmada se actualiza por UUID y su retiro limpia la lista sin duplicarla (0.5999ms)\n✔ la vista aislada carga la vista real y bloquea red, Auth y cliente productivo (0.8366ms)\n✔ un fallo de carga se distingue de permisos y de una lista vacía (1.4331ms)\n✔ Nueva tarea permite agregar y quitar responsables, evita duplicados y omite filas vacías (2.0681ms)\n✔ 373F carga principal sobrevive al enriquecimiento fallido; calendario e historial conservan snapshots (2.4435ms)\n✔ 374G tareas activas, asignaciones e historial sin claves no llaman a Edge ni consultan sesión adicional (1.0826ms)\n✔ 374G render principal no espera etiquetas; duplicados en curso comparten RPC y enriquecimiento (6.2323ms)\n✔ 374G invalidación por sesión, permisos o mutación impide reutilizar una lectura antigua (1.7679ms)\n✔ 374G Mis trabajos consulta tareas distintas en paralelo y deduplica las repetidas (1.1449ms)\n✔ 373F historial laboral usa RPC autorizada para asignaciones y tareas, sin SELECT directo (0.9392ms)\n✔ FIX-01: configuración real activa, contrato alineado y sin CRUD antiguo publicado (0.8868ms)\n✔ FIX-01: ficha Máquina conserva histórico y ofrece programación solo con administración (0.3463ms)\n✔ FIX-01: calendario de Máquinas separa tareas e histórico y no inventa fechas (2.0948ms)\n✔ FIX-VERCEL-01: CSS común cubre calendario de Máquinas con siete columnas y navegación (0.5914ms)\nℹ tests 25\nℹ suites 0\nℹ pass 25\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 112.3521\n\n",
+      "status": "Aprobado",
+      "failed_names": [],
+      "interpretation": "Ejecución local aprobada; mocks/VM o análisis estático. Sin certificación de producción.",
+      "requirements": [
+        "AUD-CAP-09",
+        "AUD-CAP-10",
+        "AUD-CAP-26"
+      ],
+      "module": "Gestión de tareas / Tareas / Transversal"
+    },
+    {
+      "id": "T03",
+      "command": "node --test tests/usuario_reautenticacion_servidor.test.mjs",
+      "environment": {},
+      "exit_code": 0,
+      "passed": 6,
+      "failed": 0,
+      "output": "✔ Paso 192: contraseña verificada en Auth y prueba opaca vinculada, sin contraseña/JWT en evidencia (7.9951ms)\n✔ Paso 192: rol insuficiente, identidad distinta, contraseña incorrecta, MFA o cierre fallido bloquean (1.5274ms)\n✔ Paso 260: MFA exigido y errores de consulta siguen bloqueando sin rebajar aal2 (1.0182ms)\n✔ Paso 192: prueba no se exporta como JSON, vence y no cambia de actor/objetivo/sesión/operación/motivo (0.7511ms)\n✔ Paso 192: no permite clave administrativa en el cliente de reautenticación (0.2218ms)\n✔ Paso 192: transporte Auth rechaza otro proyecto o rutas fuera de Auth antes de cualquier red (15.8252ms)\nℹ tests 6\nℹ suites 0\nℹ pass 6\nℹ fail 0\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 98.0712\n\n",
+      "status": "Aprobado",
+      "failed_names": [],
+      "interpretation": "Ejecución local aprobada; mocks/VM o análisis estático. Sin certificación de producción.",
+      "requirements": [
+        "AUD-CAP-03",
+        "AUD-CAP-17"
+      ],
+      "module": "Administración"
+    },
+    {
+      "id": "T04",
+      "command": "node --test tests/trabajadores_organizacion.test.mjs",
+      "environment": {
+        "TRABAJADORES_VISTA_RAIZ": "1",
+        "TRABAJADORES_DOCUMENTOS_RAIZ": "1"
+      },
+      "exit_code": 1,
+      "passed": 115,
+      "failed": 4,
+      "output": "✔ último ajuste: etiqueta Activo solo para estado booleano real y tarjetas adaptables (22.1001ms)\n✔ último ajuste: columnas equilibradas, móvil en una columna y observaciones intactas (2.6459ms)\n✔ Información: correo y verificación solo con datos explícitos, sin consultas ni inferencias (1.5433ms)\n✔ trabajador de prueba: tarjeta y ficha usan los valores recibidos sin renombrar ni truncar (1.3848ms)\n✖ documentos Administrador: usa el contrato de cuentas ampliado sin subir por el origen laboral (3.0231ms)\n✔ ajuste final: cuatro filas por página, carga por lote y sin duplicar asignaciones (12.135ms)\n✔ ajuste final: vacío, carga, error y respuestas tardías permanecen diferenciados (4.9577ms)\n✔ documentos: una lista visual preserva handlers de cada origen, sin migración ni subida laboral en cuenta (1.8754ms)\n✔ documentos: ficha vinculada no permite subir al origen laboral aunque se invoque su handler (1.6032ms)\n✔ fichas: pestañas compartidas, una sección Documentos y conservación de ambas fuentes (1.539ms)\n✔ ficha sin cuenta: apertura sin historial, cambio de pestaña único y reapertura limpia (2.3297ms)\n✔ pestaña de trabajos: sin ficha, sin autorización o con actor cambiado no consulta trabajos (3.3507ms)\n✔ presentación acotada: scroll adaptativo, colores de tema y ocultación real de paneles (0.7437ms)\n✔ pestañas: flechas, Inicio y Fin actualizan selección y foco sin cargar historial (1.2758ms)\n✔ aprobación laboral: coincidencia exacta exige elección y vincula antes de aprobar (3.0759ms)\n✔ aprobación laboral: sin coincidencias crea una sola ficha y reutiliza asociación previa (3.0554ms)\n✔ aprobación laboral: cancelar, homónimos, inactivos y selección ajena no aprueban (3.5791ms)\n✔ aprobación laboral: vinculación incierta detiene aprobación y reenvía el mismo UUID manualmente (1.5933ms)\n✔ aprobación laboral: fallo tras vincular conserva ficha y recupera sin volver a vincular (2.9332ms)\n✔ aprobación laboral: correo, permanente, rol especial y doble envío no se eluden (5.6675ms)\n✔ aprobación laboral: recuperación tras recarga reutiliza solicitud y estado durable del backend (2.6948ms)\n✔ aprobación laboral: fallo de auditoría no aprueba y cierre tras vínculo conserva estado parcial (2.6494ms)\n✔ aprobación laboral: SQL conserva bloqueo de homónimos no idénticos y ticket no cambia de cuenta (1.9579ms)\n✔ confirmación de aprobación: tres opciones y selección explícita, sin coincidencias automáticas (2.208ms)\n✔ cuentas: RPC mínima para permanente/temporal, agrupa concurrencia sin emparejar nombres (4.5314ms)\n✔ cuentas: errores, roles inesperados, columnas extra y cambio de identidad fallan cerrados (3.7972ms)\n✔ contrato de lectura: solo RPC sin argumentos, sin fallback a tablas ni rutas de eliminación (1.3985ms)\n✔ baja lógica permanente y temporal: solo estado por UUID, sin pérdida de campos/relaciones (2.5805ms)\n✔ UUID inválido, privilegio perdido y actualización rechazada no eliminan ni presentan éxito (2.1741ms)\n✔ listado: dos secciones independientes, filtro de eliminados y ficha histórica sin editar/reactivar (2.6306ms)\n✖ confirmación con nombre, cancelar y concurrencia: una actualización y retirada tras confirmación real simulada (2.7293ms)\n✖ Reactiva conserva selección solo Activo y lectura histórica por UUID; no se conecta eliminación Auth (5.7393ms)\n✔ ficha de cuenta por UUID: solo lectura, modal reutilizado y lectura documental según autorización vigente (6.52ms)\n✔ cambiar de ficha laboral a cuenta descarta respuestas laborales atrasadas, sin cargar documentos (1.5808ms)\n✔ documentos de cuenta: UUID histórico, disponible, vacío/error y respuestas atrasadas (4.6086ms)\n✔ documentos directos: RLS, hash, errores y bloqueo de toda subida incluso con indicador alterado (9.5585ms)\n✖ documentos directos: cambio de identidad no entrega bytes ni crea rutas de escritura (1.6705ms)\n✔ ficha documental: Ver/Descargar por documento; contexto antiguo no descarga ni deja URLs (1.7569ms)\n✔ preparación local: UUID/ruta únicos, firma, SHA de cliente y cero operaciones remotas (3.4086ms)\n✔ selección de cuenta: cerrar o cambiar de archivo descarta preparaciones atrasadas (1.3473ms)\n✔ cierre Trabajadores: creación y edición usan solo tabla laboral y campos editables; errores RLS se propagan (2.5219ms)\n✔ cabeceras documentales compartidas: botón idéntico, selector oculto y sin mezcla de servicios (3.4372ms)\n✔ 361B: inserción, upload y confirmación son inalcanzables aun con indicador manipulado y envíos repetidos (1.7084ms)\n✔ 361B: fallo tras descargar o cambio de versión no entrega un archivo como confirmado (3.2303ms)\n✔ 375K.5 documental: mensaje comprensible conserva recibo y revisión sin otra subida (3.5885ms)\n✔ 241 institucional: nueva subida solo por backend, UUID y snapshots permanentes; sin ruta personal (4.4134ms)\n✔ 241 institucional: envío incierto conserva UUID y revisión explícita recupera sin reenviar bytes (1.8037ms)\n✔ 241 institucional: gate, permisos, errores y respuesta incompleta no ejecutan fallback ni éxito falso (17.198ms)\n✔ 241 institucional: doble clic emite una sola solicitud; administrador temporal mantiene rol permanente (1.5ms)\n✔ 362: ficha conecta selector con servicio y refresca listado solo tras confirmación (1.4184ms)\n✔ 362: validaciones locales aceptan las cuatro firmas y rechazan formato falsificado (1.826ms)\n✔ 362: una validación antigua no libera el cupo de un envío más reciente (1.4385ms)\n✔ 363: reseleccionar un archivo con envío incierto conserva el UUID anterior y no crea otro envío (1.6067ms)\n✔ 379: diálogo de estado cancela, confirma una sola vez y libera el bloqueo tras un error (10.943ms)\n✔ 387: retiro bloqueado, reserva exacta, resultado incierto y recuperación sin repetir Storage (19.0471ms)\n✔ 390: tarjeta real abre diálogo bloqueado, permite Cancelar y bloquea Escape (1.8361ms)\n✔ 399: la modal laboral cancela sin borrar y confirma una sola vez (4.8117ms)\n✔ 20A: contrato de las tres acciones, sesión administrativa y lectura mínima (2.6056ms)\n✔ 20A: concurrencia, reintento incierto tras recarga y conflictos (3.1394ms)\n✔ 20A: la relectura actualiza la asociación y la baja lógica protege la ficha vinculada (2.0116ms)\n✔ 20A: Mantención v2 utiliza el UUID laboral y no el UUID de la cuenta (2.2704ms)\n✔ cuenta administrativa sin ficha conserva excepción y contrato documental sin tarjeta laboral (1.2956ms)\n✔ vínculos: cuenta invitada sin nombre/rol/ficha conserva ambos listados completos (1.31ms)\n✔ vínculos: nombre NULL solo para provisional sin rol ni ficha, nunca filtrar filas inválidas (7.1233ms)\n✔ vínculos: errores RPC, falta de autorización y cambio de sesión siguen rechazando (2.3605ms)\n✔ INV-16: provisional y pendiente no generan tarjetas ni alertas laborales (1.3587ms)\n✔ INV-16: inconsistencias aprobadas alertan y se resuelven visualmente al recargar vínculo real (1.459ms)\n✔ INV-16: vínculos duplicados se advierten, administración temporal no cambia el rol permanente (1.2231ms)\n✔ INV-21: ambas rutas vinculan ficha elegida por UUID antes de aprobar, sin duplicarla (8.6354ms)\n✔ INV-21: ambas rutas conservan UUID en incertidumbre y recuperan aprobación parcial (5.5578ms)\n✔ INV-21: permanente y correo verificado obligatorios; homónimos no autorizan creación (6.9119ms)\n✔ INV-21: UI real de confirmación exige UUID elegible; conserva Cancelar y rechaza sin acceso (2.3618ms)\n✔ INV-21: fragmentos de aprobación equivalentes, proyecciones completas y sin excepción de eliminación en raíz (1.5483ms)\n✔ TRAB-01: separación UUID conserva roles, cuentas deshabilitadas y homónimos — raíz (1.4656ms)\n✔ TRAB-01: recarga fuerza vínculos actuales al vincular, desvincular o crear ficha — raíz (1.4184ms)\n✔ TRAB-01: fallo de vínculos no presenta fichas como libres; recupera al reconsultar — raíz (1.3997ms)\n✔ TRAB-01: separación UUID conserva roles, cuentas deshabilitadas y homónimos — espejo (1.4323ms)\n✔ TRAB-01: recarga fuerza vínculos actuales al vincular, desvincular o crear ficha — espejo (1.3256ms)\n✔ TRAB-01: fallo de vínculos no presenta fichas como libres; recupera al reconsultar — espejo (1.2298ms)\n✔ 247: raíz y espejo idénticos, compuerta local activa y contrato previo de descarga intacto (0.632ms)\n✔ FIX-03: ambas fichas ofrecen pestañas, leyenda y un historial inicialmente plegado (1.5005ms)\n✔ FIX-03: clasificación, historial y estilos coinciden sin migrar permisos ni documentos (1.5636ms)\n✔ FIX-04: selector laboral conserva UUID y ofrece fichas activas con/sin cuenta (4.6308ms)\n✔ FIX-04: contrato laboral unitario no acepta arrays ni duplica escrituras (2.9523ms)\n✔ FIX-04: historial compacto conserva todos los registros y trazabilidad, sin falsa paginación (2.7905ms)\n✔ FIX-04: TV mantiene autorización permanente y verifica recibo antes de invalidar cachés (3.3454ms)\n✔ FIX-04C: uno o varios responsables usan una sola v3 y conservan orden (12.468ms)\n✔ FIX-04C: trabajador rechazado por servidor conserva error, sin éxito falso ni reenvío (2.1216ms)\n✔ FIX-04C: incertidumbre bloquea mismo intento incluso tras recrear servicio; doble envío no duplica (5.9243ms)\n✔ FIX-04C: historial nuevo ordenado y antiguo textual, con errores de relaciones visibles (2.3147ms)\n✔ FIX-04C: filas adicionales excluyen duplicados, conservan orden y registro contextual (2.4976ms)\n✔ FIX-04C: error conserva formulario y selección; duplicados no llaman al servicio (2.144ms)\n✔ FIX-04D: dos registros por página, navegación acotada y accesible sin borrar históricos (2.0332ms)\n✔ FIX-04D: orden reciente primero, sin mutar datos ni inventar fechas ausentes o inválidas (1.8471ms)\n✔ FIX-04D: solo Mantención cambia de componente; origen laboral sigue sujeto a lectura autorizada (2.2859ms)\n✔ FIX-04D: lectura segura denegada no devuelve un historial parcial ni amplía permisos (1.6469ms)\n✔ FIX-04E: navegación distingue Técnico, Recepción y administración temporal en ambas rutas (3.6955ms)\n✔ FIX-04E: nombres restringidos se resuelven solo mediante RPC autorizada (1.6381ms)\n✔ FIX-04F: lectura autorizada para Administrador/Técnico y rechazo Recepción/deshabilitado (9.4156ms)\n✔ FIX-04F: respuesta incompleta, ajena, duplicada o con campos extra nunca se acepta (7.8079ms)\n✔ FIX-04F: cambio de actor no reutiliza caché administrativa (1.6144ms)\n✔ 213 documental: estado efectivo admite objeto/array sin alterar recibos y bloquea incertidumbre (1.2238ms)\n✔ 213 documental: listado excluye confirmados con relación objeto/array y falla cerrado si es incompleta (1.3102ms)\n✔ 213 documental: descarga bloquea retirado/pendiente y retiro confirmado durante lectura, sin entregar bytes (3.0784ms)\n✔ 213 documental: retirada se revalida antes de reserva y de Storage; confirmación concurrente impide borrar (1.65ms)\n✔ 229 documental: ficha sin historial retirado ni consultas exclusivas; conserva acciones pendientes (1.1921ms)\n✔ 229 documental: éxito visual solo con confirmación definitiva; revisión mantiene UUID sin otra solicitud (3.6775ms)\n✔ 241 institucional: referencias persisten sin archivos/tokens, se aíslan por actor y recuperan el UUID tras recarga (2.0869ms)\n✔ 241 institucional: recibo local corrupto bloquea nueva subida y se conserva para revisión (1.3852ms)\n✔ 241 institucional: revisión UI es explícita, comparte bloqueo y conserva texto/diseño (1.4172ms)\n✔ 247: cabecera restaura Nuevo trabajador y fichas muestran Subir documento solo al administrador actual (4.7054ms)\n✔ 258 ruta: documento migrado usa ruta institucional bajo el mismo UUID, sin admitir otro destino (1.2964ms)\n✔ 375K.14 ficha documental: resuelve cuenta eliminada por servidor, sin inferir por nombre ni duplicar (2.6081ms)\n✔ 375K.14 ficha documental: combina orígenes y revalida descarga privada sin usar el borrado laboral (1.6466ms)\n✔ 375K.22 histórico: eliminación institucional explícita con cuenta original, actualización y recuperación sin repetir Storage (2.9468ms)\n✔ 375K.22 histórico: autorización, cancelación, UUID y ficha vigente bloquean el retiro; botones por origen (11.3828ms)\n✔ 375K.22 contratos locales: operaciones completadas preservan recibos sin recertificar documentos posteriores (1.7854ms)\n✔ 375K.27 confirmación documental: error mantiene modal abierto, cancelable y sin reenvío por origen (7.9072ms)\n✔ 375K.27 estilos del modal: centrado, blur, claro/oscuro y anchura móvil existentes (1.0426ms)\nℹ tests 119\nℹ suites 0\nℹ pass 115\nℹ fail 4\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 501.2287\n\n✖ failing tests:\n\ntest at tests\\trabajadores_organizacion.test.mjs:82:1\n✖ documentos Administrador: usa el contrato de cuentas ampliado sin subir por el origen laboral (3.0231ms)\n  AssertionError [ERR_ASSERTION]: The input did not match the regular expression /!\\['administrador','recepcion','tecnico'\\]\\.includes\\(rol\\)/. Input:\n  \n  '// ==========================================================\\n' +\n    '// SERVICIO: TRABAJADORES - HOTEL EL ALMENDRO\\n' +\n    '// ==========================================================\\n' +\n    '// FASE 5A-3: Service real de Supabase para el módulo Trabajadores.\\n' +\n    '//\\n' +\n    '// Patrón técnico: js/services/mejoras.service.js y\\n' +\n    '// js/services/remodelaciones.service.js.\\n' +\n    '// Acceso a datos reales vía window.supabaseClient. NO se crea otro\\n' +\n    '// cliente Supabase.\\n' +\n    '//\\n' +\n    '// Tabla real: public.trabajadores\\n' +\n    '// Columnas: id (uuid), nombre (text NOT NULL), cargo (text NULL), estado (text NOT NULL),\\n' +\n    '//           observaciones (text NULL), created_at (timestamptz NOT NULL\\n' +\n    '//           DEFAULT now()), updated_at (timestamptz NOT NULL DEFAULT now()).\\n' +\n    '//\\n' +\n    '// Existe trigger trabajadores_set_updated_at (BEFORE UPDATE) que\\n' +\n    '// actualiza updated_at automáticamente. Por tanto NUNCA se envía\\n' +\n    '// updated_at desde el frontend.\\n' +\n    '//\\n' +\n    '// Seguridad (RLS real): policies trabajadores_select_admin,\\n' +\n    '// trabajadores_insert_admin y trabajadores_update_admin, todas\\n' +\n    '// verifican public.es_administrador_actual(). Permisos de\\n' +\n    '// PostgreSQL para authenticated: SELECT, INSERT y UPDATE.\\n' +\n    '// NO existe DELETE: la eliminación física está prohibida y este\\n' +\n    '// service NO expone deleteTrabajador().\\n' +\n    '//\\n' +\n    '// Convenciones:\\n' +\n    '// - Caché interna por método (force = true fuerza recarga).\\n' +\n    '// - SELECT con columnas explícitas; NUNCA SELECT *.\\n' +\n    \"// - NULL se devuelve tal cual: el service NO convierte NULL en '' ni\\n\" +\n    '//   en cero. Los textos neutros (\"Sin observaciones\") los agrega la\\n' +\n    '//   presentación, no el service.\\n' +\n    '// - Errores: console.error con contexto y re-lanzamiento. NUNCA se\\n' +\n    '//   devuelven mocks ni se usa localStorage como fallback.\\n' +\n    '// - Los datos NO se guardan en localStorage (Ley 21.719: minimización\\n' +\n    '//   y tratamiento responsable de datos personales).\\n' +\n    '// - Cargo: columna text opcional confirmada para UX-05.\\n' +\n    '// - Esquema mínimo: NO existen RUT, email, teléfono,\\n' +\n    '//   dirección ni fecha de ingreso. No agregarlos sin requerimiento.\\n' +\n    '\\n' +\n    '// Activar solo después de instalar/verificar el SQL y autorizar una prueba real.\\n' +\n    'const TRABAJADORES_DOCUMENTOS_CUENTAS_ESCRITURA_HABILITADA = true;\\n' +\n    'const TRABAJADORES_DOCUMENTOS_CUENTAS_ELIMINACION_HABILITADA = true;\\n' +\n    'let retiroDocumentoCuentaEnCurso = false;\\n' +\n    'let subidaDocumentoCuentaEnCurso = false;\\n' +\n    \"const CUENTA_DOCUMENTO_LISTADO = 'id,cuenta_id,cuenta_nombre_snapshot,cuenta_rol_snapshot,nombre_original,mime_type_verificado,tamano_bytes_verificado,estado_reserva,created_at';\\n\" +\n    \"const CUENTA_DOCUMENTO_COLUMNAS = 'id,cuenta_id,cuenta_nombre_snapshot,cuenta_rol_snapshot,creado_por,creado_por_nombre_snapshot,bucket_id,storage_path,nombre_original,mime_type_verificado,tamano_bytes_verificado,estado_reserva,storage_object_id,storage_version,sha256_verificado,propiedad_institucional,created_at';\\n\" +\n    \"const CUENTA_DOCUMENTO_RETIRO = 'retiro:cuentas_documentos_retiros(id,autorizado_hasta,confirmado_en)';\\n\" +\n    '// Ruta derivada únicamente de metadatos autorizados; RLS/guardas validan la asociación real.\\n' +\n    'function cuentaDocumentoRutaValida(d) {\\n' +\n    \"  const base='cuentas/'+d.cuenta_id+'/'+d.id;\\n\" +\n    '  return d.storage_path===base || d.propiedad_institucional===true &&\\n' +\n    \"    new RegExp('^'+base+'/institucional/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$','i').test(d.storage_path||'');\\n\" +\n    '}\\n' +\n    'function cuentaDocumentoEstadoEfectivo(doc) {\\n' +\n    \"  const incierto = { estado: 'INCIERTO', retiro: null };\\n\" +\n    \"  if (!doc || doc.estado_reserva !== 'disponible' || !Object.prototype.hasOwnProperty.call(doc,'retiro')) return incierto;\\n\" +\n    '  const rows = doc.retiro === null ? [] : Array.isArray(doc.retiro) ? doc.retiro : [doc.retiro];\\n' +\n    \"  if (!rows.length) return { estado: 'DISPONIBLE', retiro: null };\\n\" +\n    '  if (rows.length !== 1) return incierto;\\n' +\n    '  const r=rows[0];\\n' +\n    \"  if (!r || !/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(r.id || '') ||\\n\" +\n    \"      !Number.isFinite(Date.parse(r.autorizado_hasta)) || !Object.prototype.hasOwnProperty.call(r,'confirmado_en')) return incierto;\\n\" +\n    \"  if (r.confirmado_en === null) return { estado:'RETIRO_PENDIENTE', retiro:r };\\n\" +\n    \"  return typeof r.confirmado_en==='string' && Number.isFinite(Date.parse(r.confirmado_en))\\n\" +\n    \"    ? { estado:'RETIRADO', retiro:r } : incierto;\\n\" +\n    '}\\n' +\n    '\\n' +\n    'window.TrabajadoresService = {\\n' +\n    '  estadoDocumentoCuenta: cuentaDocumentoEstadoEfectivo,\\n' +\n    '  async revalidarDocumentoCuenta(documentoId, cuentaId = null) {\\n' +\n    '    const actor=state.currentUser?.id;\\n' +\n    \"    const autorizado=()=>actor && state.currentUser?.id===actor && typeof esAdminOperativoActual==='function' && esAdminOperativoActual();\\n\" +\n    \"    if (!autorizado()) throw new Error('Se requiere autorización administrativa vigente.');\\n\" +\n    \"    if (!/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(documentoId || '')) throw new Error('Identificador documental inválido.');\\n\" +\n    \"    const {data,error}=await window.supabaseClient.from('cuentas_documentos')\\n\" +\n    \"      .select(CUENTA_DOCUMENTO_COLUMNAS+','+CUENTA_DOCUMENTO_RETIRO).eq('id',documentoId).single();\\n\" +\n    '    if (error || !data || data.id!==documentoId || !autorizado() || (cuentaId!==null && data.cuenta_id!==cuentaId))\\n' +\n    \"      throw new Error('No fue posible verificar los metadatos y permisos del documento.');\\n\" +\n    '    const efectivo=cuentaDocumentoEstadoEfectivo(data);\\n' +\n    \"    if (efectivo.estado==='INCIERTO') throw new Error('No fue posible verificar el estado del documento. Requiere revisión.');\\n\" +\n    '    return {...data,estado_efectivo:efectivo.estado,retiro_efectivo:efectivo.retiro};\\n' +\n    '  },\\n' +\n    '  _trabajadoresCache: null,          // lista completa\\n' +\n    '  _trabajadoresDetalleCache: {},     // clave: id (uuid)\\n' +\n    '  _cuentasLectura: null,\\n' +\n    '  eliminacionDocumentosCuentaHabilitada: TRABAJADORES_DOCUMENTOS_CUENTAS_ELIMINACION_HABILITADA,\\n' +\n    '  subidaDocumentosCuentaHabilitada: TRABAJADORES_DOCUMENTOS_CUENTAS_ESCRITURA_HABILITADA,\\n' +\n    '  _documentosCuentaIntentos: new Map(), // Recibos locales; la fila PostgreSQL conserva el UUID durable.\\n' +\n    '\\n' +\n    '  _vinculosEnCurso: false,\\n' +\n    '  _intencionesVinculo: new Map(),\\n' +\n    '\\n' +\n    '  async listarVinculosCuentas() {\\n' +\n    '    const actor = state.currentUser?.id;\\n' +\n    \"    if (!actor || !esAdminOperativoActual()) throw new Error('VINCULO_NO_AUTORIZADO');\\n\" +\n    \"    const { data, error } = await window.supabaseClient.rpc('usuarios_trabajadores_listar_cuentas_v1');\\n\" +\n    \"    if (!esAdminOperativoActual() || state.currentUser?.id !== actor) throw new Error('VINCULO_NO_AUTORIZADO');\\n\" +\n    '    if (error) throw error;\\n' +\n    \"    if (!Array.isArray(data) || !data.every(u => u && typeof u.usuario_id === 'string' &&\\n\" +\n    '        // Auth invitado crea primero un perfil sin nombre, rol ni ficha. No es una fila malformada.\\n' +\n    \"        (typeof u.nombre === 'string' || u.nombre === null && u.rol === null && u.trabajador_id === null) &&\\n\" +\n    \"        (u.rol === null || typeof u.rol === 'string') && typeof u.cuenta_activa === 'boolean' &&\\n\" +\n    \"        (u.trabajador_id === null || typeof u.trabajador_id === 'string'))) throw new Error('VINCULO_LECTURA_INVALIDA');\\n\" +\n    '    return data.map(u => ({\\n' +\n    '      id: u.usuario_id, nombre: u.nombre, roles: { nombre: u.rol }, estado: u.cuenta_activa,\\n' +\n    '      trabajador_id: u.trabajador_id, trabajador_nombre: u.trabajador_nombre, trabajador_estado: u.trabajador_estado\\n' +\n    '    }));\\n' +\n    '  },\\n' +\n    '\\n' +\n    '  async gestionarVinculoCuenta(datos) {\\n' +\n    '    const actor = state.currentUser?.id;\\n' +\n    \"    if (!actor || !esAdminOperativoActual()) throw new Error('VINCULO_NO_AUTORIZADO');\\n\" +\n    \"    if (this._vinculosEnCurso) throw new Error('VINCULO_EN_CURSO');\\n\" +\n    '    const { accion, usuarioId, trabajadorId, motivo, nombre, cargo, observaciones } = datos;\\n' +\n    \"    const uuid = valor => /^[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}$/i.test(valor || '');\\n\" +\n    \"    const crear = accion === 'CREAR_Y_VINCULAR';\\n\" +\n    \"    const limpiar = valor => String(valor ?? '').trim() || null;\\n\" +\n    '    const payload = {\\n' +\n    '      p_accion: accion, p_usuario_id: usuarioId, p_trabajador_id: crear ? null : trabajadorId ?? null,\\n' +\n    '      p_motivo: limpiar(motivo), p_nombre_laboral: crear ? limpiar(nombre) : null,\\n' +\n    '      p_cargo: crear ? limpiar(cargo) : null, p_observaciones: crear ? limpiar(observaciones) : null\\n' +\n    '    };\\n' +\n    \"    if (!['VINCULAR', 'DESVINCULAR', 'CREAR_Y_VINCULAR'].includes(accion) || !uuid(usuarioId) ||\\n\" +\n    \"        (!crear && !uuid(trabajadorId)) || (crear && !payload.p_nombre_laboral)) throw new Error('VINCULO_DATOS_INVALIDOS');\\n\" +\n    '    if (!payload.p_motivo || payload.p_motivo.length < 10 || payload.p_motivo.length > 1000)\\n' +\n    \"      throw new Error('VINCULO_MOTIVO_INVALIDO');\\n\" +\n    '\\n' +\n    '    const clave = JSON.stringify([actor, payload]);\\n' +\n    '    this._vinculosEnCurso = true;\\n' +\n    '    let claveSesion = null;\\n' +\n    '    try {\\n' +\n    '      let persistido = null;\\n' +\n    '      try {\\n' +\n    \"        const hash = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(clave));\\n\" +\n    \"        claveSesion = 'hotel.vinculo.' + Array.from(new Uint8Array(hash), n => n.toString(16).padStart(2, '0')).join('');\\n\" +\n    '        persistido = sessionStorage.getItem(claveSesion);\\n' +\n    '      } catch (_) { /* La memoria de la página sigue disponible. */ }\\n' +\n    \"      if (!esAdminOperativoActual() || state.currentUser?.id !== actor) throw new Error('VINCULO_NO_AUTORIZADO');\\n\" +\n    '      if (datos.solicitudId != null && (!uuid(datos.solicitudId) ||\\n' +\n    '          uuid(persistido) && persistido !== datos.solicitudId ||\\n' +\n    '          this._intencionesVinculo.has(clave) && this._intencionesVinculo.get(clave) !== datos.solicitudId))\\n' +\n    \"        throw Error('SOLICITUD_VINCULO_INCOMPATIBLE');\\n\" +\n    '      const solicitud = datos.solicitudId || this._intencionesVinculo.get(clave) || (uuid(persistido) ? persistido : crypto.randomUUID());\\n' +\n    '      this._intencionesVinculo.set(clave, solicitud);\\n' +\n    '      try { if (claveSesion) sessionStorage.setItem(claveSesion, solicitud); } catch (_) { /* Memoria local. */ }\\n' +\n    '      const limpiarIntencion = () => {\\n' +\n    '        this._intencionesVinculo.delete(clave);\\n' +\n    '        try { if (claveSesion) sessionStorage.removeItem(claveSesion); } catch (_) { /* Memoria local. */ }\\n' +\n    '      };\\n' +\n    \"      const { data, error } = await window.supabaseClient.rpc('usuarios_trabajadores_gestionar_v1', {\\n\" +\n    '        ...payload, p_solicitud_id: solicitud\\n' +\n    '      });\\n' +\n    '      if (error) {\\n' +\n    '        // Una respuesta de error PostgreSQL acredita que la operación se rechazó.\\n' +\n    '        if (/^(?:22|23|42|P'... 43653 more characters\n  \n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/trabajadores_organizacion.test.mjs:91:10)\n      at Test.runInAsyncScope (node:async_hooks:227:14)\n      at Test.run (node:internal/test_runner/test:1402:25)\n      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)\n      at Test.postRun (node:internal/test_runner/test:1542:19)\n      at Test.run (node:internal/test_runner/test:1467:12)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {\n    generatedMessage: true,\n    code: 'ERR_ASSERTION',\n    actual: `// ==========================================================\\n// SERVICIO: TRABAJADORES - HOTEL EL ALMENDRO\\n// ==========================================================\\n// FASE 5A-3: Service real de Supabase para el módulo Trabajadores.\\n//\\n// Patrón técnico: js/services/mejoras.service.js y\\n// js/services/remodelaciones.service.js.\\n// Acceso a datos reales vía window.supabaseClient. NO se crea otro\\n// cliente Supabase.\\n//\\n// Tabla real: public.trabajadores\\n// Columnas: id (uuid), nombre (text NOT NULL), cargo (text NULL), estado (text NOT NULL),\\n//           observaciones (text NULL), created_at (timestamptz NOT NULL\\n//           DEFAULT now()), updated_at (timestamptz NOT NULL DEFAULT now()).\\n//\\n// Existe trigger trabajadores_set_updated_at (BEFORE UPDATE) que\\n// actualiza updated_at automáticamente. Por tanto NUNCA se envía\\n// updated_at desde el frontend.\\n//\\n// Seguridad (RLS real): policies trabajadores_select_admin,\\n// trabajadores_insert_admin y trabajadores_update_admin, todas\\n// verifican public.es_administrador_actual(). Permisos de\\n// PostgreSQL para authenticated: SELECT, INSERT y UPDATE.\\n// NO existe DELETE: la eliminación física está prohibida y este\\n// service NO expone deleteTrabajador().\\n//\\n// Convenciones:\\n// - Caché interna por método (force = true fuerza recarga).\\n// - SELECT con columnas explícitas; NUNCA SELECT *.\\n// - NULL se devuelve tal cual: el service NO convierte NULL en '' ni\\n//   en cero. Los textos neutros (\"Sin observaciones\") los agrega la\\n//   presentación, no el service.\\n// - Errores: console.error con contexto y re-lanzamiento. NUNCA se\\n//   devuelven mocks ni se usa localStorage como fallback.\\n// - Los datos NO se guardan en localStorage (Ley 21.719: minimización\\n//   y tratamiento responsable de datos personales).\\n// - Cargo: columna text opcional confirmada para UX-05.\\n// - Esquema mínimo: NO existen RUT, email, teléfono,\\n//   dirección ni fecha de ingreso. No agregarlos sin requerimiento.\\n\\n// Activar solo después de instalar/verificar el SQL y autorizar una prueba real.\\nconst TRABAJADORES_DOCUMENTOS_CUENTAS_ESCRITURA_HABILITADA = true;\\nconst TRABAJADORES_DOCUMENTOS_CUENTAS_ELIMINACION_HABILITADA = true;\\nlet retiroDocumentoCuentaEnCurso = false;\\nlet subidaDocumentoCuentaEnCurso = false;\\nconst CUENTA_DOCUMENTO_LISTADO = 'id,cuenta_id,cuenta_nombre_snapshot,cuenta_rol_snapshot,nombre_original,mime_type_verificado,tamano_bytes_verificado,estado_reserva,created_at';\\nconst CUENTA_DOCUMENTO_COLUMNAS = 'id,cuenta_id,cuenta_nombre_snapshot,cuenta_rol_snapshot,creado_por,creado_por_nombre_snapshot,bucket_id,storage_path,nombre_original,mime_type_verificado,tamano_bytes_verificado,estado_reserva,storage_object_id,storage_version,sha256_verificado,propiedad_institucional,created_at';\\nconst CUENTA_DOCUMENTO_RETIRO = 'retiro:cuentas_documentos_retiros(id,autorizado_hasta,confirmado_en)';\\n// Ruta derivada únicamente de metadatos autorizados; RLS/guardas validan la asociación real.\\nfunction cuentaDocumentoRutaValida(d) {\\n  const base='cuentas/'+d.cuenta_id+'/'+d.id;\\n  return d.storage_path===base || d.propiedad_institucional===true &&\\n    new RegExp('^'+base+'/institucional/[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$','i').test(d.storage_path||'');\\n}\\nfunction cuentaDocumentoEstadoEfectivo(doc) {\\n  const incierto = { estado: 'INCIERTO', retiro: null };\\n  if (!doc || doc.estado_reserva !== 'disponible' || !Object.prototype.hasOwnProperty.call(doc,'retiro')) return incierto;\\n  const rows = doc.retiro === null ? [] : Array.isArray(doc.retiro) ? doc.retiro : [doc.retiro];\\n  if (!rows.length) return { estado: 'DISPONIBLE', retiro: null };\\n  if (rows.length !== 1) return incierto;\\n  const r=rows[0];\\n  if (!r || !/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(r.id || '') ||\\n      !Number.isFinite(Date.parse(r.autorizado_hasta)) || !Object.prototype.hasOwnProperty.call(r,'confirmado_en')) return incierto;\\n  if (r.confirmado_en === null) return { estado:'RETIRO_PENDIENTE', retiro:r };\\n  return typeof r.confirmado_en==='string' && Number.isFinite(Date.parse(r.confirmado_en))\\n    ? { estado:'RETIRADO', retiro:r } : incierto;\\n}\\n\\nwindow.TrabajadoresService = {\\n  estadoDocumentoCuenta: cuentaDocumentoEstadoEfectivo,\\n  async revalidarDocumentoCuenta(documentoId, cuentaId = null) {\\n    const actor=state.currentUser?.id;\\n    const autorizado=()=>actor && state.currentUser?.id===actor && typeof esAdminOperativoActual==='function' && esAdminOperativoActual();\\n    if (!autorizado()) throw new Error('Se requiere autorización administrativa vigente.');\\n    if (!/^[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}$/i.test(documentoId || '')) throw new Error('Identificador documental inválido.');\\n    const {data,error}=await window.supabaseClient.from('cuentas_documentos')\\n      .select(CUENTA_DOCUMENTO_COLUMNAS+','+CUENTA_DOCUMENTO_RETIRO).eq('id',documentoId).single();\\n    if (error || !data || data.id!==documentoId || !autorizado() || (cuentaId!==null && data.cuenta_id!==cuentaId))\\n      throw new Error('No fue posible verificar los metadatos y permisos del documento.');\\n    const efectivo=cuentaDocumentoEstadoEfectivo(data);\\n    if (efectivo.estado==='INCIERTO') throw new Error('No fue posible verificar el estado del documento. Requiere revisión.');\\n    return {...data,estado_efectivo:efectivo.estado,retiro_efectivo:efectivo.retiro};\\n  },\\n  _trabajadoresCache: null,          // lista completa\\n  _trabajadoresDetalleCache: {},     // clave: id (uuid)\\n  _cuentasLectura: null,\\n  eliminacionDocumentosCuentaHabilitada: TRABAJADORES_DOCUMENTOS_CUENTAS_ELIMINACION_HABILITADA,\\n  subidaDocumentosCuentaHabilitada: TRABAJADORES_DOCUMENTOS_CUENTAS_ESCRITURA_HABILITADA,\\n  _documentosCuentaIntentos: new Map(), // Recibos locales; la fila PostgreSQL conserva el UUID durable.\\n\\n  _vinculosEnCurso: false,\\n  _intencionesVinculo: new Map(),\\n\\n  async listarVinculosCuentas() {\\n    const actor = state.currentUser?.id;\\n    if (!actor || !esAdminOperativoActual()) throw new Error('VINCULO_NO_AUTORIZADO');\\n    const { data, error } = await window.supabaseClient.rpc('usuarios_trabajadores_listar_cuentas_v1');\\n    if (!esAdminOperativoActual() || state.currentUser?.id !== actor) throw new Error('VINCULO_NO_AUTORIZADO');\\n    if (error) throw error;\\n    if (!Array.isArray(data) || !data.every(u => u && typeof u.usuario_id === 'string' &&\\n        // Auth invitado crea primero un perfil sin nombre, rol ni ficha. No es una fila malformada.\\n        (typeof u.nombre === 'string' || u.nombre === null && u.rol === null && u.trabajador_id === null) &&\\n        (u.rol === null || typeof u.rol === 'string') && typeof u.cuenta_activa === 'boolean' &&\\n        (u.trabajador_id === null || typeof u.trabajador_id === 'string'))) throw new Error('VINCULO_LECTURA_INVALIDA');\\n    return data.map(u => ({\\n      id: u.usuario_id, nombre: u.nombre, roles: { nombre: u.rol }, estado: u.cuenta_activa,\\n      trabajador_id: u.trabajador_id, trabajador_nombre: u.trabajador_nombre, trabajador_estado: u.trabajador_estado\\n    }));\\n  },\\n\\n  async gestionarVinculoCuenta(datos) {\\n    const actor = state.currentUser?.id;\\n    if (!actor || !esAdminOperativoActual()) throw new Error('VINCULO_NO_AUTORIZADO');\\n    if (this._vinculosEnCurso) throw new Error('VINCULO_EN_CURSO');\\n    const { accion, usuarioId, trabajadorId, motivo, nombre, cargo, observaciones } = datos;\\n    const uuid = valor => /^[0-9a-f]{8}(?:-[0-9a-f]{4}){3}-[0-9a-f]{12}$/i.test(valor || '');\\n    const crear = accion === 'CREAR_Y_VINCULAR';\\n    const limpiar = valor => String(valor ?? '').trim() || null;\\n    const payload = {\\n      p_accion: accion, p_usuario_id: usuarioId, p_trabajador_id: crear ? null : trabajadorId ?? null,\\n      p_motivo: limpiar(motivo), p_nombre_laboral: crear ? limpiar(nombre) : null,\\n      p_cargo: crear ? limpiar(cargo) : null, p_observaciones: crear ? limpiar(observaciones) : null\\n    };\\n    if (!['VINCULAR', 'DESVINCULAR', 'CREAR_Y_VINCULAR'].includes(accion) || !uuid(usuarioId) ||\\n        (!crear && !uuid(trabajadorId)) || (crear && !payload.p_nombre_laboral)) throw new Error('VINCULO_DATOS_INVALIDOS');\\n    if (!payload.p_motivo || payload.p_motivo.length < 10 || payload.p_motivo.length > 1000)\\n      throw new Error('VINCULO_MOTIVO_INVALIDO');\\n\\n    const clave = JSON.stringify([actor, payload]);\\n    this._vinculosEnCurso = true;\\n    let claveSesion = null;\\n    try {\\n      let persistido = null;\\n      try {\\n        const hash = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(clave));\\n        claveSesion = 'hotel.vinculo.' + Array.from(new Uint8Array(hash), n => n.toString(16).padStart(2, '0')).join('');\\n        persistido = sessionStorage.getItem(claveSesion);\\n      } catch (_) { /* La memoria de la página sigue disponible. */ }\\n      if (!esAdminOperativoActual() || state.currentUser?.id !== actor) throw new Error('VINCULO_NO_AUTORIZADO');\\n      if (datos.solicitudId != null && (!uuid(datos.solicitudId) ||\\n          uuid(persistido) && persistido !== datos.solicitudId ||\\n          this._intencionesVinculo.has(clave) && this._intencionesVinculo.get(clave) !== datos.solicitudId))\\n        throw Error('SOLICITUD_VINCULO_INCOMPATIBLE');\\n      const solicitud = datos.solicitudId || this._intencionesVinculo.get(clave) || (uuid(persistido) ? persistido : crypto.randomUUID());\\n      this._intencionesVinculo.set(clave, solicitud);\\n      try { if (claveSesion) sessionStorage.setItem(claveSesion, solicitud); } catch (_) { /* Memoria local. */ }\\n      const limpiarIntencion = () => {\\n        this._intencionesVinculo.delete(clave);\\n        try { if (claveSesion) sessionStorage.removeItem(claveSesion); } catch (_) { /* Memoria local. */ }\\n      };\\n      const { data, error } = await window.supabaseClient.rpc('usuarios_trabajadores_gestionar_v1', {\\n        ...payload, p_solicitud_id: solicitud\\n      });\\n      if (error) {\\n        // Una respuesta de error PostgreSQL acredita que la operación se rechazó.\\n        if (/^(?:22|23|42|P`... 43653 more characters,\n    expected: /!\\['administrador','recepcion','tecnico'\\]\\.includes\\(rol\\)/,\n    operator: 'match',\n    diff: 'simple'\n  }\n\ntest at tests\\trabajadores_organizacion.test.mjs:578:1\n✖ confirmación con nombre, cancelar y concurrencia: una actualización y retirada tras confirmación real simulada (2.7293ms)\n  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n  \n  0 !== 1\n  \n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/trabajadores_organizacion.test.mjs:585:10)\n      at async Test.run (node:internal/test_runner/test:1409:7)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {\n    generatedMessage: true,\n    code: 'ERR_ASSERTION',\n    actual: 0,\n    expected: 1,\n    operator: 'strictEqual',\n    diff: 'simple'\n  }\n\ntest at tests\\trabajadores_organizacion.test.mjs:592:1\n✖ Reactiva conserva selección solo Activo y lectura histórica por UUID; no se conecta eliminación Auth (5.7393ms)\n  AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n  \n    assert(!/usuario-eliminacion-ejecutar|deleteUser|\\.delete\\(|\\.functions\\./.test(source(name).replaceAll('cuentaDocumentoUrls.delete(url)', '').replaceAll('this._intencionesVinculo.delete(clave)', '').replaceAll('this._aprobacionesLaboralesEnCurso.delete(usuarioId)', '')))\n  \n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/trabajadores_organizacion.test.mjs:596:5)\n      at Test.runInAsyncScope (node:async_hooks:227:14)\n      at Test.run (node:internal/test_runner/test:1402:25)\n      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)\n      at Test.postRun (node:internal/test_runner/test:1542:19)\n      at Test.run (node:internal/test_runner/test:1467:12)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {\n    generatedMessage: true,\n    code: 'ERR_ASSERTION',\n    actual: false,\n    expected: true,\n    operator: '==',\n    diff: 'simple'\n  }\n\ntest at tests\\trabajadores_organizacion.test.mjs:737:1\n✖ documentos directos: cambio de identidad no entrega bytes ni crea rutas de escritura (1.6705ms)\n  AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n  \n    assert(!/functions\\.invoke/.test(source('services/trabajadores.service.js')))\n  \n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/trabajadores_organizacion.test.mjs:743:3)\n      at async Test.run (node:internal/test_runner/test:1409:7)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {\n    generatedMessage: true,\n    code: 'ERR_ASSERTION',\n    actual: false,\n    expected: true,\n    operator: '==',\n    diff: 'simple'\n  }\n\n",
+      "status": "Fallido",
+      "failed_names": [
+        "documentos Administrador: usa el contrato de cuentas ampliado sin subir por el origen laboral",
+        "confirmación con nombre, cancelar y concurrencia: una actualización y retirada tras confirmación real simulada",
+        "Reactiva conserva selección solo Activo y lectura histórica por UUID; no se conecta eliminación Auth",
+        "documentos directos: cambio de identidad no entrega bytes ni crea rutas de escritura"
+      ],
+      "interpretation": "4 fallos: expectativas documentales/UI y prohibiciones antiguas de Edge; requieren revisar fixture y contrato V2 antes de atribuir defecto al producto.",
+      "requirements": [
+        "AUD-CAP-05",
+        "AUD-CAP-15",
+        "AUD-CAP-16"
+      ],
+      "module": "Trabajadores / Documentos"
+    },
+    {
+      "id": "T05",
+      "command": "node --test tests/usuario_invitaciones.test.mjs",
+      "environment": {},
+      "exit_code": 1,
+      "passed": 142,
+      "failed": 4,
+      "output": "✔ nombre propio: transacción, contexto verificado, coordinación antes de filas y único UPDATE parametrizado (3.627ms)\n✔ mismo nombre reconcilia sin otra escritura; distinto no sobrescribe (1.0609ms)\n✔ respuesta perdida después de commit: repetición del resultado conservado no reescribe (0.3107ms)\n▶ cada condición backend inválida detiene el nombre antes del UPDATE\n  ✔ {\"auth\":{\"password_configurada\":false}} (0.3169ms)\n  ✔ {\"auth\":{\"invited_at\":null}} (0.1752ms)\n  ✔ {\"auth\":{\"email_confirmed_at\":null}} (0.1735ms)\n  ✔ {\"profile\":{\"estado\":false}} (0.1802ms)\n  ✔ {\"profile\":{\"rol_id\":\"10000000-0000-4000-8000-000000000002\"}} (0.2112ms)\n  ✔ {\"profile\":{\"trabajador_id\":\"10000000-0000-4000-8000-000000000002\"}} (0.209ms)\n  ✔ {\"noAuth\":true} (0.5972ms)\n  ✔ {\"noProfile\":true} (0.1381ms)\n  ✔ {\"context\":{\"effective_role\":\"service_role\"}} (0.0956ms)\n  ✔ {\"context\":{\"login_role\":\"authenticated\"}} (0.0766ms)\n  ✔ {\"context\":{\"database_name\":\"otra\"}} (0.0737ms)\n  ✔ {\"context\":{\"can_update_name\":false}} (0.0775ms)\n  ✔ {\"context\":{\"bypass_rls\":false}} (0.0857ms)\n  ✔ {\"context\":{\"isolation\":\"repeatable read\"}} (0.0744ms)\n  ✔ {\"lock\":false} (0.111ms)\n  ✔ {\"identity\":\"10000000-0000-4000-8000-000000000002\"} (0.0891ms)\n✔ cada condición backend inválida detiene el nombre antes del UPDATE (3.9516ms)\n✔ guardas y fallo transaccional simulado revierten el nombre (0.2843ms)\n✔ concurrencia simulada: segunda solicitud rechaza, revisión posterior reconcilia (0.3665ms)\n✔ nombre válido conserva apóstrofos y Unicode, sin SQL dinámico ni HTML/control (0.2651ms)\n✔ no acepta UUID, rol, ficha, contraseña ni evidencia del navegador (0.2373ms)\n✔ INVITAR: permanente actual, no Técnico/Recepción/temporal/inactivo (0.6806ms)\n✔ INVITAR cerrado por defecto y sin conexión acreditada (0.5648ms)\n✔ correo previamente invitado rechaza y libera candado/cliente (13.3229ms)\n✔ envío simulado bajo sesión, HTTPS fijo y sin acreditar entrega (1.4857ms)\n✔ dos workers simulados excluyen la segunda invitación concurrente (0.6829ms)\n✔ timeout/respuesta inválida exige revisión; ausencia de Auth no prueba no envío (1.3155ms)\n✔ fallo de unlock, pérdida de sesión y fallo de cierre nunca anuncian éxito (0.9524ms)\n✔ factory acepta solo conexión directa dedicada; poolers y puerto transacción no abren cliente (0.638ms)\n✔ pérdida de afinidad antes de HTTP descarta cliente y no envía (0.4338ms)\n✔ revocación posterior al candado vuelve a comprobar el perfil antes del envío (0.4909ms)\n✔ fallo al reservar conexión directa destruye el cliente creado (0.2205ms)\n✔ password primero y nombre después: nombre incompleto no queda listo; reintento reconcilia (0.3187ms)\n✔ HTTP: cierre por defecto, CORS y método antes de Auth/SQL (18.3843ms)\n✔ HTTP: JWT inválido, JSON/keys/acción/tamaño inválidos no llegan a SQL (1.5867ms)\n✔ HTTP: resultado nombre y error transaccional incierto sin filtración (1.0109ms)\n✔ HTTP: presupuesto local limitado, sin presentarlo como defensa distribuida (1.1681ms)\n✔ HTTP: resultado incierto conserva ok=false y evidencia sin afirmar entrega (1.4919ms)\n✖ pantallas y recuperación conservan cierres; sin backend de eliminación ni SQL nuevo (4.3364ms)\n✔ autenticación valida usuario con Auth y claims, nunca metadata ni type (0.4473ms)\n✔ fetch restringido: proyecto/ruta/método fijos y nunca reintenta un POST invite (0.9426ms)\n✔ UI Admin: compuerta cerrada/no permanente impiden invocaciones incluso por submit manual (4.4828ms)\n✔ UI Admin: envío explícito único, solo email, UUID conservado y bloqueo doble clic (1.9411ms)\n✔ UI Admin: HTTP202/incierto se conserva tras recarga y nunca reenvía (2.6189ms)\n✔ UI Admin: backend cerrado o conexión incompatible muestra bloqueo sin éxito (3.6829ms)\n✔ cliente rechaza respuesta malformada y nunca publica errores internos o cambia identidad (2.2464ms)\n✔ aprobación existente rechaza nombre vacío antes de enviar RPC, sin modificar su implementación (2.333ms)\n✔ presentación separa registro incompleto y espera administrativa sin reenvío innecesario (0.8251ms)\n✔ diagnóstico con gates generales cerrados verifica dos sesiones/locks/cierre sin datos ni escrituras (1.2316ms)\n✔ diagnóstico cerrado por defecto y gate diagnóstico nunca habilita INVITAR ni nombre (0.643ms)\n✔ INV-11: Origin ajeno y acción desconocida no eluden gates ni alcanzan Auth/SQL (0.8091ms)\n✔ diagnóstico exige JWT válido y permanente, no permite actor/clave suministrados (1.4949ms)\n✔ diagnóstico deniega cambios de permiso, contexto/pid incompatible y fallos de cleanup, sin éxito falso (303.2178ms)\n✔ diagnóstico limpia A si falla abrir B y permite nueva ejecución después del error (1.0961ms)\n✔ diagnóstico incompatible con pooler no crea conexión física ni cambia permisos (0.41ms)\n✔ dos diagnósticos simultáneos del mismo worker no dejan sesiones adicionales (0.2958ms)\n✔ diagnóstico no llama Auth admin ni ruta de nombre y configuración tiene gate dedicado (0.5836ms)\n✔ destino servidor conserva Vercel por defecto y acepta solo dos URLs exactas (0.1631ms)\n✔ INVITAR no admite redirectTo ni destino desde navegador (0.3855ms)\n✔ adaptador Auth selecciona destino servidor y no cambia el destino de producción (0.2409ms)\n✔ UI disponible solo en orígenes local y producción exactos, en ambas configuraciones (4.0321ms)\n✔ refresco mantiene mismo formulario conectado, abierto, correo/foco/mensaje y otros detalles (1.3251ms)\n✔ último rechazo servidor no se confunde con un sondeo actual de configuración (1.3581ms)\n✔ INV-17: pendiente conserva dos SVG legibles, temas, textos y cuenta escapada en ambas copias (1.7884ms)\n✔ INV-18: seis estados administrativos sin utilizar metadata ni recibos del navegador (0.2791ms)\n✔ INV-18: espera servidor60s, ficha/rol/cuenta bloqueada o identidad incompatible no permiten reenviar (0.1835ms)\n✔ INV-18: consulta autorizada no llama Auth ni escribe; reenvío mantiene identidad y lock (2.2375ms)\n✔ INV-18: reenvío rechaza UUID antiguo y estados confirmados o recientes sin enviar (1.1112ms)\n✔ INV-18: dos reenvíos simultáneos comparten candado, sin repetir Auth tras incertidumbre (0.763ms)\n✔ INV-18: reenvío no autoriza Técnico/Recepción/temporal ni gates cerrados (0.6474ms)\n✔ INV-18: UI revisa antes del reenvío y solo envía una vez para el mismo correo/UUID (1.3509ms)\n✔ INV-18: recibo confirmado antiguo no bloquea correo eliminado vuelto a usar, ni se reutiliza para otro correo (1.3421ms)\n✔ INV-18: registro incompleto, pendiente y aprobado solo ofrecen revisión/recuperación, sin correo (4.476ms)\n✔ INV-18: correo invitado readonly con indicador, sin confiar en correo editado ni metadata (0.7727ms)\n✔ INV-18: UUID diferente en respuesta Auth nunca confirma el reenvío (1.8523ms)\n✔ INV-18: reenvío se protege también por Origin y JWT, cuerpo extra y cooldown no se eluden (0.4972ms)\n✔ INV-22: dos botones de cabecera y formulario fuera del panel, modal nativo reutilizado (3.713ms)\n✔ INV-22: manual muestra cuatro campos bloqueados, no acepta password ni ejecuta backend (2.7705ms)\n✔ INV-22: roles sin acceso no abren ninguno y estilos de ambos temas son existentes (2.658ms)\n✔ INV-23: escribir correo consulta tras pausa, no envía y no ofrece botón separado (2.6187ms)\n✔ INV-23: cambios rápidos agrupan consultas y una respuesta antigua no cambia el correo actual (2.2858ms)\n✔ INV-23: compuertas cerradas o estado no comprobable mantienen botón bloqueado sin reintentos (7.7464ms)\n✔ INV-23: countdown consulta al terminar, solo click explícito reenvía y vuelve a validar (1.423ms)\n✔ INV-23: si estado cambia antes del click se informa sin enviar, y sin permiso no consulta (2.1992ms)\n✔ INV-23: consulta informa gate de envío cerrado sin abrirlo ni llamar Auth admin (0.7479ms)\n✔ INV-23: pendiente sin permiso explícito de reenvío no habilita botón aunque no haya contador (1.2637ms)\n✔ INV-25: gate manual independiente cerrado; incluso abierto rechaza sin almacenamiento (0.9063ms)\n✔ INV-25: autorización de creación utiliza cliente humano y RPC bajo JWT real, no postgres (0.7775ms)\n✔ INV-25: nombre busca fichas y exige confirmación UUID antes de cualquier activación, ambas rutas (9.2193ms)\n✔ INV-25: homónimos/UUID ajeno nunca se vinculan y permiso temporal bloquea planificación (1.2878ms)\n✔ INV-25: confirmar password y mostrar/ocultar no guarda secretos; submit sigue cerrado (2.2109ms)\n✔ INV-28: Técnico/Recepción, UUID explícito, JWT humano, password solo Auth y éxito verificado (3.976ms)\n✔ INV-28: entrada inválida/Admin/confirmación/UUID y contraseña de recuperación rechazan antes de reservar (0.7061ms)\n✔ INV-28: password no participa en huella, correo existente/homónimo no crea Auth (0.6601ms)\n✔ INV-28: respuesta Auth perdida reconcilia marca durable, nunca repite createUser (0.9765ms)\n✔ INV-28: Auth ausente/contraseña rechazada retiene incertidumbre; jamás RECHAZADA ni segundo create (0.9092ms)\n✔ INV-28: vinculación/aprobación perdidas recuperan recibo/rol sin repetir RPC (1.0715ms)\n✔ INV-28: recuperación explícita sin recibo reusa exactamente subUUID y parámetros laborales (0.6337ms)\n✔ INV-29: recuperación de claim laboral/aprobación interrumpido no repite transición EN_CURSO (1.0802ms)\n✔ INV-32: modo por defecto es ensayo; configuración ausente/inválida y otro correo no reservan (2.9941ms)\n✔ INV-32: correo autorizado normaliza espacios/mayúsculas; producción solo explícita y sin restricción residual (0.7326ms)\n✔ INV-32: restricción se aplica a recuperación y revalidación antes de Auth; navegador no controla modo (0.6878ms)\n✔ INV-32: errores Auth se codifican sin contraseña ni mensaje original, sin liberar incertidumbre (1.1517ms)\n✔ INV-36: interfaz permanente sin bandera local y restringida al administrador permanente (8.6355ms)\n✖ INV-36: candidato de raíz resuelve HTML, scripts y CSS sin depender del espejo pendiente (36.8956ms)\n✖ INV-36: candidato no añade excepción de eliminación, ni secretos, y excluye fuentes del hosting (3.4039ms)\n✖ INV-36: destino HTTPS y registro fijo; producción explícita sin abrir ENSAYO por omisión (33.0685ms)\n✔ INV-32: mensajes distinguen bloqueo, autorización, cuenta existente, contraseña y revisión sin mostrar datos crudos (2.7088ms)\n✔ INV-32: UI interpreta error HTTP estructurado y conserva recibo/UUID sin contraseña (4.7247ms)\n✔ INV-28: dos workers simultáneos/doble clic, nueva solicitud mismo correo no repite Auth (2.4362ms)\n✔ INV-28: marca incompatible, sesión perdida y verificación final fallida no confirman éxito (0.9576ms)\n✔ INV-33: contexto real informado AUTH_EN_CURSO rev2, Recepción y ficha nueva recupera sin password/createUser (0.8751ms)\n✔ INV-33: rechazo de transición informa etapa/SQLSTATE sin secretos y conserva AUTH_EN_CURSO para recuperar (1.0727ms)\n✔ INV-33: diagnósticos no propagan mensaje de red ni SQLSTATE inválido y UI orienta recuperación manual correcta (2.3322ms)\n✔ INV-33: reabrir Nuevo usuario identifica la solicitud guardada sin autoenviar ni revelar contraseña (2.3281ms)\n✔ INV-28: Auth transport permite solo un POST createUser; nunca invite, DELETE ni redirects (0.4606ms)\n✔ INV-28: gate/Origin/JWT y errores HTTP manuales no filtran contraseñas ni llaman invitaciones (1.358ms)\n✔ INV-28: UI ambas rutas conserva solicitud sin password y recupera explícitamente sin reenvío Auth (3.1483ms)\n✔ INV-28: reserva PREPARADA requiere contraseña nueva y confirmación explícita, conserva UUID (3.0681ms)\n✔ INV-28: store real usa CAS, reloj SQL único y no modifica perfil/rol/ficha (1.1236ms)\n✔ INV-28: store real libera/cierra sesión dedicada ante éxito, error y fallo de unlock (0.7493ms)\n✔ INV-28: reconciliación SQL contrasta marca, UUID/correo, perfil y verificación, sin buscar por nombre/correo (1.5797ms)\n✔ INV-34: marca exacta pasa por serialización de parámetro antes de reconciliar AUTH_EN_CURSO (0.7116ms)\n✔ INV-35: ojos compartidos dentro del input mantienen valores, iconos y accesibilidad al limpiar (2.9564ms)\n✔ INV-35: revisar solo aparece con solicitud del actor y no borra recibos inciertos o ilegibles (2.1979ms)\n✔ INV-35: recuperación pendiente permanece visible; COMPLETADA confirmada lo oculta y no reaparece al reabrir (2.5786ms)\n✔ INV-25: cambiar nombre durante consulta descarta resultado anterior sin confirmar ni crear (1.5139ms)\n✔ 375K.5 documental: mapea solo rechazo SQL exacto de eliminación pendiente sin publicar mensajes (0.9974ms)\n✔ 236 institucional: entrada exacta, UUID estable, firma real y hash calculado en servidor (0.8026ms)\n✔ 236 institucional: reserva antes de POST, recuperación sin otro envío y hash alterado bloqueado (1.0014ms)\n✔ 236 institucional: respuesta POST perdida conserva reserva y revisión nunca repite POST (0.5749ms)\n✔ 236 institucional: autorización fallida no reserva; permanente y delegado siguen el mismo permiso documental (0.8317ms)\n✔ 236 institucional: compuerta independiente cerrada, Origin/JWT y errores sin secretos (0.8355ms)\n✔ 236 institucional: Storage usa solo POST único y GET acotado, sin upsert ni DELETE (1.0746ms)\n✔ 236 institucional: store no convierte cuenta ajena ni documento personal y valida revisión final (1.0256ms)\n✔ 236 institucional: dos solicitudes concurrentes reservan una sola subida y el permiso se valida antes de leer cuerpo (5.3013ms)\n✔ 236 institucional: falta contrato SQL o destinatario válido impide reservar y no toca Storage (0.3568ms)\n✔ 258 migración: fases separadas, UUID y autor originales; nunca borrar al copiar/asociar (1.9228ms)\n✔ 258 migración: copia incierta se reconcilia sin repetir COPY; hash diferente impide asociación (0.9563ms)\n✔ 258 migración: pérdida tras DELETE se recupera con ausencia y copia física, sin repetir borrado (1.0364ms)\n✔ 258 migración: concurrencia, sesión denegada, compuerta cerrada y parámetros extra fallan cerrados (1.2874ms)\n✔ 258 migración: API copia sin overwrite y retirada solo del original autorizado, sin RPC220 (0.8043ms)\n✔ 258 migración: denegación de lectura humana o fallo antes del DELETE conserva el original y no anuncia éxito (1.2773ms)\nℹ tests 146\nℹ suites 0\nℹ pass 142\nℹ fail 4\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 698.9673\n\n✖ failing tests:\n\ntest at tests\\usuario_invitaciones.test.mjs:296:1\n✖ pantallas y recuperación conservan cierres; sin backend de eliminación ni SQL nuevo (4.3364ms)\n  AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n  \n    assert.ok(!/deleteUser|createInstalledSqlAdapter|createDeletionCoordinator|\\.rpc\\(/.test(entry))\n  \n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/usuario_invitaciones.test.mjs:302:10)\n      at Test.runInAsyncScope (node:async_hooks:227:14)\n      at Test.run (node:internal/test_runner/test:1402:25)\n      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)\n      at Test.postRun (node:internal/test_runner/test:1542:19)\n      at Test.run (node:internal/test_runner/test:1467:12)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {\n    generatedMessage: true,\n    code: 'ERR_ASSERTION',\n    actual: false,\n    expected: true,\n    operator: '==',\n    diff: 'simple'\n  }\n\ntest at tests\\usuario_invitaciones.test.mjs:1107:1\n✖ INV-36: candidato de raíz resuelve HTML, scripts y CSS sin depender del espejo pendiente (36.8956ms)\n  Error: Command failed: git show HEAD:index.html\n  fatal: not a git repository (or any of the parent directories): .git\n  \n      at genericNodeError (node:internal/errors:986:15)\n      at wrappedFn (node:internal/errors:540:14)\n      at checkExecSyncError (node:child_process:943:11)\n      at execFileSync (node:child_process:979:15)\n      at inv36Candidato (file:///[RAIZ_LOCAL]/tests/usuario_invitaciones.test.mjs:1105:5)\n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/usuario_invitaciones.test.mjs:1109:16)\n      at Test.runInAsyncScope (node:async_hooks:227:14)\n      at Test.run (node:internal/test_runner/test:1402:25)\n      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)\n      at Test.postRun (node:internal/test_runner/test:1542:19) {\n    status: 128,\n    signal: null,\n    output: [ null, '', 'fatal: not a git repository (or any of the parent directories): .git\\n' ],\n    pid: 7788,\n    stdout: '',\n    stderr: 'fatal: not a git repository (or any of the parent directories): .git\\n'\n  }\n\ntest at tests\\usuario_invitaciones.test.mjs:1121:1\n✖ INV-36: candidato no añade excepción de eliminación, ni secretos, y excluye fuentes del hosting (3.4039ms)\n  AssertionError [ERR_ASSERTION]: js/services/usuarios.service.js\n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/usuario_invitaciones.test.mjs:1124:46)\n      at Test.runInAsyncScope (node:async_hooks:227:14)\n      at Test.run (node:internal/test_runner/test:1402:25)\n      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)\n      at Test.postRun (node:internal/test_runner/test:1542:19)\n      at Test.run (node:internal/test_runner/test:1467:12)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {\n    generatedMessage: false,\n    code: 'ERR_ASSERTION',\n    actual: false,\n    expected: true,\n    operator: '==',\n    diff: 'simple'\n  }\n\ntest at tests\\usuario_invitaciones.test.mjs:1132:1\n✖ INV-36: destino HTTPS y registro fijo; producción explícita sin abrir ENSAYO por omisión (33.0685ms)\n  Error: Command failed: git show HEAD:js/recuperarPassword.js\n  fatal: not a git repository (or any of the parent directories): .git\n  \n      at genericNodeError (node:internal/errors:986:15)\n      at wrappedFn (node:internal/errors:540:14)\n      at checkExecSyncError (node:child_process:943:11)\n      at execFileSync (node:child_process:979:15)\n      at inv36Candidato (file:///[RAIZ_LOCAL]/tests/usuario_invitaciones.test.mjs:1105:5)\n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/usuario_invitaciones.test.mjs:1142:13)\n      at Test.runInAsyncScope (node:async_hooks:227:14)\n      at Test.run (node:internal/test_runner/test:1402:25)\n      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)\n      at Test.postRun (node:internal/test_runner/test:1542:19) {\n    status: 128,\n    signal: null,\n    output: [ null, '', 'fatal: not a git repository (or any of the parent directories): .git\\n' ],\n    pid: 7740,\n    stdout: '',\n    stderr: 'fatal: not a git repository (or any of the parent directories): .git\\n'\n  }\n\n",
+      "status": "Fallido",
+      "failed_names": [
+        "pantallas y recuperación conservan cierres; sin backend de eliminación ni SQL nuevo",
+        "INV-36: candidato de raíz resuelve HTML, scripts y CSS sin depender del espejo pendiente",
+        "INV-36: candidato no añade excepción de eliminación, ni secretos, y excluye fuentes del hosting",
+        "INV-36: destino HTTPS y registro fijo; producción explícita sin abrir ENSAYO por omisión"
+      ],
+      "interpretation": "4 fallos: 2 comandos git show sin .git y 2 expectativas antiguas de exclusión/eliminación. No restaurar pilotos ni cerrar V2 para satisfacer pruebas históricas.",
+      "requirements": [
+        "AUD-CAP-04"
+      ],
+      "module": "Administración"
+    },
+    {
+      "id": "T06",
+      "command": "node tests/harness_auth.js --correo",
+      "environment": {},
+      "exit_code": 0,
+      "passed": 93,
+      "failed": 0,
+      "output": "[PASS] sintaxis de todos los scripts inline\n[PASS] sin scripts, widgets, claves públicas ni referencias CAPTCHA\n[PASS] Supabase Auth y cliente existente conservados\n[PASS] login sin token: una solicitud y bloqueo simultáneo\n[PASS] login envía exclusivamente correo y contraseña\n[PASS] login mantiene bloqueo hasta redirección\n[PASS] login redirige al guard existente de index\n[PASS] login: error claro Revisa tus credenciales\n[PASS] login permite reintentar tras error Revisa tus credenciales\n[PASS] login: error claro Confirma tu correo\n[PASS] login permite reintentar tras error Confirma tu correo\n[PASS] login: error claro Demasiados intentos\n[PASS] login permite reintentar tras error Demasiados intentos\n[PASS] login: error claro No fue posible conectar\n[PASS] login permite reintentar tras error No fue posible conectar\n[PASS] login sin formulario ni pestaña de registro público\n[PASS] eliminado handler público handleRegisterSubmit\n[PASS] eliminado handler público ejecutarSignUp\n[PASS] eliminado handler público validarFormularioRegistro\n[PASS] eliminado handler público switchAuthTab\n[PASS] login no contiene llamadas signUp\n[PASS] recuperación abre formulario real sin mensaje simulado\n[PASS] reenvío sin sesión bloquea doble envío y espera confirmación\n[PASS] reenvío signup usa destino HTTPS público exacto\n[PASS] reenvío confirmado es neutral y conserva enfriamiento\n[PASS] error de reenvío sin secretos ni falso éxito {\"status\":429}\n[PASS] error de reenvío sin secretos ni falso éxito {\"code\":\"unexpected\",\"message\":\"NO EXPONER\"}\n[PASS] pendiente distingue verificación y aprobación, sin árbol/puerta\n[PASS] sesión ya verificada no reenvía y conserva acceso al cierre\n[PASS] fallo de red conserva mensaje neutral sin datos internos\n[PASS] pendiente conserva estilos para ambos temas y edificio\n[PASS] errores del enlace se manejan sin imprimir descripción del proveedor\n[PASS] contador visible conserva 60 s y botón bloqueado\n[PASS] contador termina sin reenvío automático\n[PASS] invitación pendiente pide administrador sin ofrecer signup resend\n[PASS] invitado no usa resend signup aunque se invoque el handler\n[PASS] registro invitado sin signUp y correo readonly\n[PASS] URL capturada y limpia antes de recursos, sin storage de tokens\n[PASS] sesión invitada validada sin escrituras false\n[PASS] enlace tratado por Auth, no solo type false\n[PASS] submit manipulado no escribe contraseña ni nombre false\n[PASS] sesión invitada validada sin escrituras true\n[PASS] enlace tratado por Auth, no solo type true\n[PASS] submit manipulado no escribe contraseña ni nombre true\n[PASS] registro rechaza condición incompatible {\"parametroSolo\":true}\n[PASS] registro rechaza condición incompatible {\"error\":{\"code\":\"otp_expired\"}}\n[PASS] registro rechaza condición incompatible {\"otroActor\":true}\n[PASS] registro rechaza condición incompatible {\"user\":{\"invited_at\":null}}\n[PASS] registro rechaza condición incompatible {\"user\":{\"email_confirmed_at\":null}}\n[PASS] registro rechaza condición incompatible {\"perfil\":{\"rol_id\":\"tecnico\"}}\n[PASS] registro rechaza condición incompatible {\"perfil\":{\"trabajador_id\":\"ficha\"}}\n[PASS] registro rechaza condición incompatible {\"perfil\":{\"estado\":false}}\n[PASS] registro rechaza condición incompatible {\"perfilError\":{\"message\":\"NO EXPONER\"}}\n[PASS] password se envía solo a Auth\n[PASS] registro conectado confirma password y nombre antes de pendiente\n[PASS] recibo no conserva contraseña ni tokens\n[PASS] password se envía solo a Auth\n[PASS] nombre incierto no declara registro completo\n[PASS] reintento nombre conserva UUID y no repite contraseña\n[PASS] password se envía solo a Auth\n[PASS] password incierta se reconcilia por backend sin repetir Auth\n[PASS] password se envía solo a Auth\n[PASS] backend sin contraseña requiere otro envío explícito\n[PASS] password se envía solo a Auth\n[PASS] reintento explícito posterior completa\n[PASS] password se envía solo a Auth\n[PASS] Edge cerrada no produce éxito falso y conserva parcial\n[PASS] recarga permite continuar con login aislado, sin segunda identidad/password\n[PASS] continuación rechaza cuenta de registro público no invitada\n[PASS] validación de contraseña impide toda escritura\n[PASS] password se envía solo a Auth\n[PASS] registro bloquea doble submit mientras Auth responde\n[PASS] doble submit conserva una sola finalización\n[PASS] password se envía solo a Auth\n[PASS] correo del DOM no se utiliza como identidad o destino\n[PASS] ni abrir bandera antigua recupera formulario eliminado\n[PASS] sin handler signUp invocable desde login\n[PASS] éxito completo cierra sesión y redirige a login con aviso pendiente\n[PASS] password se envía solo a Auth\n[PASS] cierre fallido no redirige ni fabrica aviso {\"logoutError\":true}\n[PASS] password se envía solo a Auth\n[PASS] cierre fallido no redirige ni fabrica aviso {\"keepSession\":true}\n[PASS] password se envía solo a Auth\n[PASS] reintento de cierre no repite password ni nombre\n[PASS] password se envía solo a Auth\n[PASS] registro parcial no redirige ni anuncia éxito en login\n[PASS] registro público cerrado por defecto en código real\n[PASS] pestaña pública eliminada del HTML\n[PASS] login muestra mensaje exacto y consume aviso\n[PASS] aviso de finalización no se repite\n[PASS] recuperación mantiene exclusivamente recovery\n[PASS] acción invitación oculta a temporal/no autorizado\n[PASS] acción permanente visible pero envío bloqueado\n93/93 PASS — AUTH-1 / AUTH-3B / AUTH-2B (solo memoria)\n\n",
+      "status": "Aprobado",
+      "failed_names": [],
+      "interpretation": "Ejecución local aprobada; mocks/VM o análisis estático. Sin certificación de producción.",
+      "requirements": [
+        "AUD-CAP-01",
+        "AUD-CAP-04"
+      ],
+      "module": "Acceso / Administración"
+    },
+    {
+      "id": "T07",
+      "command": "node tests/harness_auth.js --recuperacion",
+      "environment": {},
+      "exit_code": 1,
+      "passed": 20,
+      "failed": 1,
+      "output": "[PASS] correo inválido no envía recuperación http://127.0.0.1:5500/login.html\n[PASS] recuperación usa URL relativa real y bloquea duplicados http://127.0.0.1:5500/login.html\n[PASS] mensaje genérico y permite volver al login http://127.0.0.1:5500/login.html\n[PASS] volver desde solicitud muestra login http://127.0.0.1:5500/login.html\n[PASS] correo inválido no envía recuperación http://localhost:8123/hotel/login.html\n[PASS] recuperación usa URL relativa real y bloquea duplicados http://localhost:8123/hotel/login.html\n[PASS] mensaje genérico y permite volver al login http://localhost:8123/hotel/login.html\n[PASS] volver desde solicitud muestra login http://localhost:8123/hotel/login.html\n[PASS] correo inválido no envía recuperación https://hotel.example.test/login.html\n[PASS] recuperación usa URL relativa real y bloquea duplicados https://hotel.example.test/login.html\n[PASS] mensaje genérico y permite volver al login https://hotel.example.test/login.html\n[PASS] volver desde solicitud muestra login https://hotel.example.test/login.html\n[PASS] solicitud maneja error sin revelar cuentas {\"error\":{\"code\":\"user_not_found\",\"message\":\"NO EXPONER\"}}\n[PASS] solicitud maneja error sin revelar cuentas {\"error\":{\"status\":429},\"texto\":\"Demasiados intentos\"}\n[PASS] solicitud maneja error sin revelar cuentas {\"error\":{\"code\":\"unexpected_failure\",\"status\":500},\"texto\":\"No fue posible\"}\n[PASS] solicitud maneja error sin revelar cuentas {\"error\":{\"name\":\"AuthRetryableFetchError\"},\"texto\":\"No fue posible\"}\n[PASS] solicitud maneja error sin revelar cuentas {\"red\":true,\"texto\":\"No fue posible\"}\n[PASS] file no se usa como destino de recuperación\n[PASS] página independiente con SDK uniforme, sin SPA\n[PASS] ojos de recuperación son botones de teclado sin submit\n\nAssertionError [ERR_ASSERTION]: tokens se retiran de URL antes de cargar recursos\n    at check ([RAIZ_LOCAL]\\tests\\harness_auth.js:11:44)\n    at probarRecuperacion ([RAIZ_LOCAL]\\tests\\harness_auth.js:239:3) {\n  generatedMessage: false,\n  code: 'ERR_ASSERTION',\n  actual: false,\n  expected: true,\n  operator: '==',\n  diff: 'simple'\n}\n",
+      "status": "Fallido",
+      "failed_names": [],
+      "interpretation": "20 comprobaciones aprobadas antes de abortar. Falla orden de recursos: favicon precede a history.replaceState en recuperar-password.html:8–12. Referrer no-referrer presente; no se demostró filtración real.",
+      "requirements": [
+        "AUD-CAP-02"
+      ],
+      "module": "Acceso"
+    },
+    {
+      "id": "T08",
+      "command": "node tests/harness_dashboard.js",
+      "environment": {},
+      "exit_code": 0,
+      "passed": 54,
+      "failed": 0,
+      "output": "[PASS] modal: orden natural, sin tipo y total\n[PASS] modal: alta vigente, filtros fijos y resumen por tipo\n[PASS] modal: tipo evidente no se repite\n[PASS] modal: alta oculta sin autorización\n[PASS] modal: apertura solo con categorías\n[PASS] modal: elegir categoría sincroniza el filtro y abre solo su listado\n[PASS] modal: volver restaura categorías y foco\n[PASS] modal: búsqueda sin tilde combinada con tipo y vista plana\n[PASS] modal: ningún resultado para filtros incompatibles\n[PASS] modal: filtro Sin tipo y regreso a grupos\n[PASS] modal: seis visibles inicialmente y búsqueda sin límite de grupo\n[PASS] modal: expansión local actualiza accesibilidad\n[PASS] modal: volver a seis sin modificar otros grupos\n[PASS] servicio: identidad única y conteo HEAD exacto de los tres estados\n[PASS] servicio: sin permiso no consulta filas\n[PASS] servicio: sesión de otra identidad no consulta filas\n[PASS] servicio: conteo ausente se rechaza\n[PASS] cuatro métricas dinámicas de servicios existentes\n[PASS] cuatro tarjetas con títulos documentales exactos\n[PASS] resumen ya no consulta las tareas de proyectos\n[PASS] acceso directo abre el mismo modal desde Mantención General\n[PASS] ruta denegada oculta el acceso e impide abrir el modal\n[PASS] categorías reales con total y sin tipo\n[PASS] tarjetas compactas sin expansión y una sola consulta\n[PASS] solicitudes por tres estados\n[PASS] único acceso de gestión y fuera de los KPI\n[PASS] sin permiso se conserva el KPI sin consultar solicitudes\n[PASS] el evento de alta refresca solo ubicaciones y agrupa avisos simultáneos\n[PASS] fuera de Dashboard el evento no lee y la navegación actualiza\n[PASS] seis tarjetas originales se reutilizan sin cambios\n[PASS] orden conserva encabezado, cuatro tarjetas y áreas\n[PASS] Dashboard sin acceso redundante y Gantt conserva su ruta lateral\n[PASS] retira mensajes antiguos solo del resumen reemplazado\n[PASS] sin cifras de referencia hardcodeadas ni reloj fijo\n[PASS] IDs duplicados de proyectos y equipos cuentan una vez\n[PASS] consulta fallida muestra No disponible: proyectosMejoras\n[PASS] fallo no borra métricas independientes: proyectosMejoras\n[PASS] consulta fallida muestra No disponible: proyectosRemodelacion\n[PASS] fallo no borra métricas independientes: proyectosRemodelacion\n[PASS] consulta fallida muestra No disponible: ubicaciones\n[PASS] fallo no borra métricas independientes: ubicaciones\n[PASS] consulta fallida muestra No disponible: pendientes\n[PASS] fallo no borra métricas independientes: pendientes\n[PASS] consulta fallida muestra No disponible: equipos\n[PASS] fallo no borra métricas independientes: equipos\n[PASS] consulta fallida muestra No disponible: bodegas\n[PASS] fallo no borra métricas independientes: bodegas\n[PASS] consulta vacía válida conserva ceros reales\n[PASS] respuesta incompleta no se transforma en cero\n[PASS] carga inicial explícita\n[PASS] vista carga áreas y resumen antes de mostrar valores\n[PASS] respuesta tardía no pisa otra pantalla\n[PASS] resumen anterior no sobrescribe una lectura más reciente\n[PASS] sin escrituras, consultas directas, librerías ni almacenamiento\n54/54 PASS — Dashboard (solo memoria)\n\n",
+      "status": "Aprobado",
+      "failed_names": [],
+      "interpretation": "Ejecución local aprobada; mocks/VM o análisis estático. Sin certificación de producción.",
+      "requirements": [
+        "RF-DASH-01"
+      ],
+      "module": "Dashboard"
+    },
+    {
+      "id": "T09",
+      "command": "node tests/harness_ux02_modales.js",
+      "environment": {},
+      "exit_code": 0,
+      "passed": 57,
+      "failed": 0,
+      "output": "PASS fondo compartido conserva modal-new-request\nPASS fondo compartido conserva modal-convert-request\nPASS fondo compartido conserva modal-maintenance-detail\nPASS fondo compartido conserva modal-asset-detail\nPASS fondo compartido conserva modal-renovation-detail\nPASS fondo compartido conserva modal-improvement-detail\nPASS fondo compartido conserva modal-area-detail\nPASS fondo compartido conserva modal-user-form\nPASS fondo compartido conserva modal-admin-temporal\nPASS cierre explícito compartido conservado\nPASS Escape conserva mntTeclaEscapeSubapartado\nPASS Escape conserva mntTeclaEscapeRegistrarMantencion\nPASS Escape conserva mntTeclaEscapeAnularMantencion\nPASS Escape conserva mntTeclaEscapeRevisionControl\nPASS Escape conserva mntTeclaEscapeAnulacionRevisionControl\nPASS Escape conserva mntTeclaEscapeCambioPilasControl\nPASS Escape conserva mntTeclaEscapeAnularCambioPilasControl\nPASS Escape conserva mntTeclaEscapeRevisionTV\nPASS Escape conserva mntTeclaEscapeAnulacionRevisionTV\nPASS Escape conserva mntTeclaEscapeRegistroEngrase\nPASS Escape conserva mntTeclaEscapeAnularEngrase\nPASS Escape conserva mntTeclaEscapeRegistroFosa\nPASS Escape conserva mntTeclaEscapeAnularFosa\nPASS Escape conserva mntTeclaEscapeAdminGuia\nPASS Escape conserva mntTeclaEscapeAdminJardineria\nPASS Escape conserva mntBodEscape\nPASS Escape conserva pvTeclaEscape\nPASS manejadores locales de fondo revisados js/views/mantenciones.js\nPASS fondo sin cierre js/views/mantenciones.js #0\nPASS fondo sin cierre js/views/mantenciones.js #1\nPASS fondo sin cierre js/views/mantenciones.js #2\nPASS fondo sin cierre js/views/mantenciones.js #3\nPASS fondo sin cierre js/views/mantenciones.js #4\nPASS fondo sin cierre js/views/mantenciones.js #5\nPASS fondo sin cierre js/views/mantenciones.js #6\nPASS fondo sin cierre js/views/mantenciones.js #7\nPASS fondo sin cierre js/views/mantenciones.js #8\nPASS fondo sin cierre js/views/mantenciones.js #9\nPASS fondo sin cierre js/views/mantenciones.js #10\nPASS fondo sin cierre js/views/mantenciones.js #11\nPASS fondo sin cierre js/views/mantenciones.js #12\nPASS manejadores locales de fondo revisados js/views/prevencionista.js\nPASS fondo sin cierre js/views/prevencionista.js #0\nPASS fondo sin cierre js/views/prevencionista.js #1\nPASS fondo sin cierre js/views/prevencionista.js #2\nPASS fondo sin cierre js/views/prevencionista.js #3\nPASS fondo sin cierre js/views/prevencionista.js #4\nPASS manejadores locales de fondo revisados js/views/inventario.js\nPASS fondo sin cierre js/views/inventario.js #0\nPASS fondo sin cierre js/views/inventario.js #1\nPASS Escape conserva funcionalidad no modal del autocompletado\nPASS Escape posterior no intenta cerrar una ficha\nPASS Escape conserva modal y no toca foco adminGestionTeclado\nPASS Escape conserva modal y no toca foco jdaTeclaDetalle\nPASS Escape conserva modal y no toca foco teclaCierreSesion\nPASS listeners globales no cierran modal padre ni hijo\nPASS UX-01 conserva etiquetas Gantt\n57/57 PASS — UX-02 (solo memoria)\n\n",
+      "status": "Aprobado",
+      "failed_names": [],
+      "interpretation": "Ejecución local aprobada; mocks/VM o análisis estático. Sin certificación de producción.",
+      "requirements": [
+        "AUD-CAP-24"
+      ],
+      "module": "Transversal"
+    },
+    {
+      "id": "T10",
+      "command": "node tests/harness_solicitudes_consulta.js --solo-servicio",
+      "environment": {},
+      "exit_code": 0,
+      "passed": 1,
+      "failed": 0,
+      "output": "PASS servicio: combinaciones globales, páginas de 20, orden estable, espacios/caja, solicitante, literales y filtro propio\n\n",
+      "status": "Aprobado",
+      "failed_names": [],
+      "interpretation": "Ejecución local aprobada; mocks/VM o análisis estático. Sin certificación de producción.",
+      "requirements": [
+        "AUD-CAP-06"
+      ],
+      "module": "Solicitudes"
+    },
+    {
+      "id": "T11",
+      "command": "node tests/harness_inv4.js",
+      "environment": {},
+      "exit_code": 2,
+      "passed": 0,
+      "failed": 1,
+      "output": "\nERROR EN HARNESS: TypeError: Cannot read properties of undefined (reading 'unidad_medida')\n    at main ([RAIZ_LOCAL]\\tests\\harness_inv4.js:571:24)\n",
+      "status": "Fallido",
+      "failed_names": [],
+      "interpretation": "Error de fixture/contrato: undefined.unidad_medida en harness_inv4.js:571. Abortó antes de una contabilización fiable; no acredita fallo de stock.",
+      "requirements": [
+        "AUD-CAP-12",
+        "AUD-CAP-13"
+      ],
+      "module": "Inventario principal"
+    },
+    {
+      "id": "T12",
+      "command": "node tests/harness_areas.js",
+      "environment": {},
+      "exit_code": 1,
+      "passed": 2,
+      "failed": 1,
+      "output": "[PASS] carga explícita sin ceros ni métricas locales\n[PASS] reutiliza getResumen existente\n\nTypeError: r.ctx.areaGeneralTarjetaHTML is not a function\n    at main ([RAIZ_LOCAL]\\tests\\harness_areas.js:70:20)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n",
+      "status": "Fallido",
+      "failed_names": [],
+      "interpretation": "2 comprobaciones antes de TypeError: areaGeneralTarjetaHTML ya no existe en contexto del harness (línea 70).",
+      "requirements": [
+        "RF-AREA-01"
+      ],
+      "module": "Áreas"
+    },
+    {
+      "id": "T13",
+      "command": "node tests/harness_banos.js",
+      "environment": {},
+      "exit_code": 1,
+      "passed": 2,
+      "failed": 1,
+      "output": "[PASS] contexto propio de Baños con elemento verdadero\n[PASS] dos historiales separados, sistema primero\n\nError cargando el historial operativo de la ficha: ReferenceError: state is not defined\n    at Object.getMantencionesOperativasPorElemento (eval at cargarServicio (eval at <anonymous> ([RAIZ_LOCAL]\\tests\\harness_banos.js:12:11)), <anonymous>:586:19)\n    at mntCargarEstadoOperativasFicha (eval at cargarVista (eval at <anonymous> ([RAIZ_LOCAL]\\tests\\harness_banos.js:12:11)), <anonymous>:2504:52)\n    at mntRefrescarOperativasBano (eval at cargarVista (eval at <anonymous> ([RAIZ_LOCAL]\\tests\\harness_banos.js:12:11)), <anonymous>:4237:24)\n    at Object.abrirFichaBano (eval at cargarVista (eval at <anonymous> ([RAIZ_LOCAL]\\tests\\harness_banos.js:12:11)), <anonymous>:4221:10)\n    at main ([RAIZ_LOCAL]\\tests\\harness_banos.js:40:11)\n    at Object.<anonymous> ([RAIZ_LOCAL]\\tests\\harness_banos.js:110:1)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\nAssertionError [ERR_ASSERTION]: vacío operativo explícito y registro habilitado\n    at verificar ([RAIZ_LOCAL]\\tests\\harness_banos.js:14:48)\n    at main ([RAIZ_LOCAL]\\tests\\harness_banos.js:44:3) {\n  generatedMessage: false,\n  code: 'ERR_ASSERTION',\n  actual: false,\n  expected: true,\n  operator: '==',\n  diff: 'simple'\n}\n",
+      "status": "Fallido",
+      "failed_names": [],
+      "interpretation": "2 comprobaciones antes de fallo; escenario de historial carece de state y falla expectativa de vacío/registro. Revisar fixture.",
+      "requirements": [
+        "RF-MANT-01"
+      ],
+      "module": "Mantención General"
+    },
+    {
+      "id": "T14",
+      "command": "node tests/harness_bodegas.js",
+      "environment": {},
+      "exit_code": 0,
+      "passed": 31,
+      "failed": 0,
+      "output": "[PASS] lectura asociada al UUID histórico, no al elemento vinculado\n[PASS] solo columnas confirmadas de inventariados\n[PASS] estado vacío y dos bloques separados\n[PASS] Container conserva datos originales\n[PASS] permanente: formulario propio sin observaciones, stock ni identificador editable\n[PASS] permanente: fecha obligatoria sin RPC\n[PASS] permanente: responsable obligatorio sin RPC\n[PASS] permanente: doble envío y cierre bloqueados\n[PASS] permanente: RPC exacta sin autoría del navegador\n[PASS] permanente: éxito real del stub, refresco y fechas sin desplazamiento\n[PASS] permanente: responsable escapado y filtros conservados\n[PASS] temporal: formulario propio sin observaciones, stock ni identificador editable\n[PASS] temporal: fecha obligatoria sin RPC\n[PASS] temporal: responsable obligatorio sin RPC\n[PASS] temporal: doble envío y cierre bloqueados\n[PASS] temporal: RPC exacta sin autoría del navegador\n[PASS] temporal: éxito real del stub, refresco y fechas sin desplazamiento\n[PASS] temporal: responsable escapado y filtros conservados\n[PASS] sin duplicación ni controles de editar/eliminar\n[PASS] Técnico consulta sin botón ni envío directo de interfaz\n[PASS] error RPC conserva formulario y datos sin falso éxito\n[PASS] respuesta no confirmada no anuncia guardado\n[PASS] guardado confirmado con fallo de refresco distingue ambos resultados\n[PASS] reintento solo lee y recupera tres registros\n[PASS] cambio de ficha impide guardar con contexto anterior\n[PASS] Piscina conserva campos ausentes sin inventarlos\n[PASS] lectura tardía no sobrescribe otra ficha\n[PASS] cerrar invalida lecturas pendientes y conserva filtros\n[PASS] 29 originales intactos\n[PASS] servicio rechaza número original como identificador\n[PASS] solo SELECT del dominio y RPC específica\n31/31 PASS — BODEGAS (solo memoria)\n\n",
+      "status": "Aprobado",
+      "failed_names": [],
+      "interpretation": "Ejecución local aprobada; mocks/VM o análisis estático. Sin certificación de producción.",
+      "requirements": [
+        "RF-MANT-01",
+        "AUD-CAP-14"
+      ],
+      "module": "Mantención General / Mantención General/Bodegas"
+    },
+    {
+      "id": "T15",
+      "command": "node tests/harness_gantt.js",
+      "environment": {},
+      "exit_code": 1,
+      "passed": 0,
+      "failed": 1,
+      "output": "\nReferenceError: uiEncabezadoSeccion is not defined\n    at Object.getGanttHTML (evalmachine.<anonymous>:135:18)\n    at main ([RAIZ_LOCAL]\\tests\\harness_gantt.js:16:61)\n",
+      "status": "Fallido",
+      "failed_names": [],
+      "interpretation": "ReferenceError uiEncabezadoSeccion no definido en el contexto simulado. No certifica defecto Gantt en navegador.",
+      "requirements": [
+        "AUD-CAP-19",
+        "AUD-CAP-20"
+      ],
+      "module": "Mejoras/Gantt / Prevencionista"
+    },
+    {
+      "id": "T16",
+      "command": "node tests/harness_gantt_edicion.js",
+      "environment": {},
+      "exit_code": 1,
+      "passed": 20,
+      "failed": 1,
+      "output": "[PASS] etiquetas tarea proyectos creación\n[PASS] valores y límites de progreso proyectos null\n[PASS] etiquetas tarea proyectos edición\n[PASS] valores y límites de progreso proyectos n\n[PASS] etiquetas fase proyectos creación\n[PASS] etiquetas fase proyectos edición\n[PASS] histórico conserva año real y fase no inventada\n[PASS] título propio y fase nueva se aplican al gráfico\n[PASS] solo lectura temporal\n[PASS] invocación directa bloqueada temporal\n[PASS] solo lectura técnico\n[PASS] invocación directa bloqueada técnico\n[PASS] solo lectura recepción\n[PASS] invocación directa bloqueada recepción\n[PASS] históricos no generan RPC de escritura\n[PASS] histórico no abre formulario editable\n[PASS] estructura distingue históricos y tareas sin fase\n[PASS] se reutiliza modal/campos de Prevencionista\n[PASS] doble envío produce una sola RPC\n[PASS] no cierra durante guardado\n\nReferenceError: uiEncabezadoSeccion is not defined\n    at getGanttHTML (evalmachine.<anonymous>:135:18)\n    at gtRepintar (evalmachine.<anonymous>:90:18)\n    at gtEjecutar (evalmachine.<anonymous>:234:105)\n    at process.processTicksAndRejections (node:internal/process/task_queues:104:5)\n    at async Object.gtGuardarFormulario [as guardar] (evalmachine.<anonymous>:210:3)\n    at async main ([RAIZ_LOCAL]\\tests\\harness_gantt_edicion.js:32:342)\n",
+      "status": "Fallido",
+      "failed_names": [],
+      "interpretation": "20 comprobaciones antes de ReferenceError uiEncabezadoSeccion no definido en fixture.",
+      "requirements": [
+        "AUD-CAP-19"
+      ],
+      "module": "Mejoras/Gantt"
+    },
+    {
+      "id": "T17",
+      "command": "node tests/harness_configuracion.js",
+      "environment": {},
+      "exit_code": 1,
+      "passed": 0,
+      "failed": 1,
+      "output": "\nevalmachine.<anonymous>:15\n  return `<div class=\"alm-ui alm-main-page alm-module-page alm-settings w-full max-w-5xl mx-auto space-y-4 pb-10\">${uiEncabezadoSeccion('Configuración','Preferencias y seguridad de tu cuenta.','settings')}<div class=\"alm-settings-layout\"><nav aria-label=\"Configuración personal\" class=\"alm-panel alm-settings-nav\">${CONFIG_PERSONAL_TABS.map(([id,titulo])=>`<button type=\"button\" onclick=\"switchConfigTab('${id}')\" aria-pressed=\"${activeConfigTab===id}\" aria-controls=\"config-personal-contenido\" class=\"alm-settings-option\"><span aria-hidden=\"true\" class=\"alm-settings-nav-icon\">${iconos[id]}</span><span><span class=\"block font-bold text-sm\">${titulo}</span><span class=\"alm-settings-option-help\">${descripciones[id]}</span></span></button>`).join('')}</nav><section id=\"config-personal-contenido\" class=\"alm-panel alm-settings-content p-5 sm:p-6 space-y-4\">${renderActiveConfigSection(activeConfigTab)}</section></div></div>`;\n  ^\n\nReferenceError: uiEncabezadoSeccion is not defined\n    at Object.renderSettingsView (evalmachine.<anonymous>:15:3)\n    at Object.<anonymous> ([RAIZ_LOCAL]\\tests\\harness_configuracion.js:5:101)\n    at Module._compile (node:internal/modules/cjs/loader:1929:14)\n    at Object..js (node:internal/modules/cjs/loader:2060:10)\n    at Module.load (node:internal/modules/cjs/loader:1651:32)\n    at Module._load (node:internal/modules/cjs/loader:1443:12)\n    at wrapModuleLoad (node:internal/modules/cjs/loader:261:19)\n    at Module.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:154:5)\n    at node:internal/main/run_main_module:33:47\n\nNode.js v24.22.3\n",
+      "status": "Fallido",
+      "failed_names": [],
+      "interpretation": "ReferenceError uiEncabezadoSeccion no definido en fixture de Configuración.",
+      "requirements": [
+        "AUD-CAP-22"
+      ],
+      "module": "Configuración"
+    },
+    {
+      "id": "T18",
+      "command": "node tests/harness_reactiva_eliminacion.js",
+      "environment": {},
+      "exit_code": 0,
+      "passed": 11,
+      "failed": 0,
+      "output": "PASS orígenes, UUID original, cinco parámetros y motivo trim exacto\nPASS temporales, Recepción y Técnico sin RPC; revocación y cambio de cuenta\nPASS validaciones locales y vínculos incoherentes bloquean antes de RPC\nPASS trabajo por estados, fechas, detalle vacío, responsable y ciclos de reapertura\nPASS historial desconocido y errores de lectura bloquean; relectura antes del envío\nPASS retorno vacío, múltiple, sin IDs, IDs distintos y null incorrecto: inciertos sin reintento\nPASS error de autorización y pérdida de conexión nunca producen éxito\nPASS concurrencia, vista cambiada y pérdida de permiso durante consultas\nPASS visibilidad de ficha por rol, aprobadas sin eliminación y funciones existentes\nPASS regresión con mocks: crear, aprobar, rechazar, autoaprobar, asignar, estados y reabrir\nPASS sincronizadores reales con mocks: resultado de refresco y limpieza ante fallo\n11 grupos correctos; exclusivamente mocks locales.\n\n",
+      "status": "Aprobado",
+      "failed_names": [],
+      "interpretation": "Ejecución local aprobada; mocks/VM o análisis estático. Sin certificación de producción.",
+      "requirements": [
+        "AUD-CAP-06",
+        "AUD-CAP-07",
+        "AUD-CAP-08"
+      ],
+      "module": "Solicitudes / Reactiva / Solicitudes/Reactiva"
+    },
+    {
+      "id": "T19",
+      "command": "node --test tests/usuario_eliminacion_coordinar.test.mjs",
+      "environment": {},
+      "exit_code": 1,
+      "passed": 36,
+      "failed": 6,
+      "output": "✔ 375K.5 modal: cierre y actualización solo tras COMPLETADA; fallos conservan ventana y operación (19.5601ms)\n✔ 375K.5 sin operaciones pendientes retira el acceso de revisión sin ejecutar nada (2.2595ms)\n✔ 375K.5 frontend: habilitación general válida sin autorización irreversible (38.8453ms)\n✔ 375B continuación/recuperación: reconsulta UUID original y bloquea respuestas cerradas o inválidas (26.3403ms)\n✖ 364 UI: recuperación reconsulta y conserva UUID; respuesta sin confirmación nunca es éxito (1.06ms)\n✖ 364 UI: etiqueta histórica solo tras COMPLETADA exacta y formularios deshabilitados en ambos temas (3.6737ms)\n✔ 374L recuperación en revisión no finaliza, no reintenta Auth y conserva operación original (0.8429ms)\n✔ 363 V2: compuerta y autorización cierran antes de SQL/Auth (0.5567ms)\n✔ 363 V2: preparación, física, SQL, Auth único, posterior y auditoría en orden (0.2855ms)\n✔ 363 V2: PREPARADA original reutiliza solicitud, inicio cerrado y sello alterado no borran (0.3545ms)\n✔ 363 V2: recuperación AUTH_EN_CURSO/REVISION nunca repite Auth ni preparación (0.2799ms)\n✔ 363 V2: pérdida posterior, física o auditoría fallida conservan revisión sin éxito falso (0.2989ms)\n✔ 363 V2: COMPLETADA valida recibo SQL sin GET, contraseña ni Auth (0.1055ms)\n✔ flujo simulado: preparación, certificación, Auth, verificación, auditoría y conservación (7.4269ms)\n✔ temporal, reautenticación pendiente, dependencias y certificado pendiente bloquean (0.9061ms)\n✔ fallo antes de Auth o en autorización no ejecuta borrado (0.4551ms)\n✔ Auth incierta no reintenta ni finaliza por ausencia no acreditada (0.5414ms)\n✔ Auth lanza error y no registra éxito (0.434ms)\n✔ Auth eliminada y auditoría fallida: recuperación finaliza sin doble eliminación (0.7662ms)\n✔ operación repetida con contenido distinto bloquea (0.504ms)\n✔ ausencia Auth no certifica operación con historial false (0.5645ms)\n✔ dos administradores intentan eliminarse: reserva simulada protege ambos papeles (0.7295ms)\n✔ fallo al persistir revisión se informa sin inventar registro (0.4412ms)\n✔ execute real bloquea incondicionalmente, sin invocar dependencias (0.1518ms)\n✔ AUTH_ELIMINADA sin certificado no puede finalizar aunque ambas cuentas estén ausentes (0.6672ms)\n✔ una operación de otro actor no permite ni finalizar ni marcar su revisión (0.5692ms)\n✔ Paso 172: rechazo de certificado por snapshot o referencia desconocida no llega a inicio/Auth (0.6512ms)\n✔ Paso 172: Storage y administrador fuera del alcance inicial no autorizan inicio (0.4484ms)\n✔ Paso 186: solicitud pendiente y aviso sobreviven íntegros al flujo exclusivamente simulado (0.415ms)\n✔ Paso 186: pérdida del aviso o cambio automático de estado impiden finalizar en la simulación (0.9866ms)\n✔ Paso 186: servicios reales listan, buscan, abren y envían revisión tras desaparición simulada del creador (5.2767ms)\n✔ Paso 189: guarda final ausente o negativa bloquea antes de Auth y conserva revisión (0.5256ms)\n✔ Paso 189: revocación del actor inmediatamente antes de Auth impide el intento (0.3747ms)\n✔ Paso 189: auditoría simulada conserva actor/objetivo/motivo/evidencia y no se duplica al recuperar (0.6322ms)\n✖ DEL-FIX-06: servicios filtran diagnóstico sin reintentos ni persistencia (4.8314ms)\n✔ DEL-FIX-07: frontend descubre sin contraseña ni request nuevo y rechaza respuesta parcial (9.1888ms)\n✖ DEL-FIX-08: continuación frontend conserva UUID, reconsulta y no reintenta ante red/estado cambiado (1.1198ms)\n✖ DEL-FIX-11: frontend muestra solo rechazo SQL permitido y conserva 409 como fallo (1.6819ms)\n✔ 365 frontend: identidad confirmada anota sin alterar snapshot; evidencia incompleta o ajena se rechaza (9.22ms)\n✔ 365 resumen: exige 46 categorías verificadas y nunca afirma certificación física o permiso (7.4151ms)\n✖ 365 compuertas: consultas preceden cierre, ejecución permanece bloqueada y SQL no concede lectura API (0.4589ms)\n✔ DEL-FIX-12: ojo de continuación reutiliza helper accesible sin perder ni persistir contraseña (2.7268ms)\nℹ tests 42\nℹ suites 0\nℹ pass 36\nℹ fail 6\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 231.2994\n\n✖ failing tests:\n\ntest at tests\\usuario_eliminacion_coordinar.test.mjs:135:1\n✖ 364 UI: recuperación reconsulta y conserva UUID; respuesta sin confirmación nunca es éxito (1.06ms)\n  Error: La operación cambió o requiere otra revisión. Vuelve a consultar su estado.\n      at Object.recuperarEliminacionIniciada (evalmachine.<anonymous>:250:13)\n      at async TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/usuario_eliminacion_coordinar.test.mjs:146:36)\n      at async Test.run (node:internal/test_runner/test:1409:7)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7)\n\ntest at tests\\usuario_eliminacion_coordinar.test.mjs:151:1\n✖ 364 UI: etiqueta histórica solo tras COMPLETADA exacta y formularios deshabilitados en ambos temas (3.6737ms)\n  AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n  \n    assert(source.includes('const ADMIN_ELIMINACION_HABILITADA = false;'))\n  \n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/usuario_eliminacion_coordinar.test.mjs:160:3)\n      at Test.runInAsyncScope (node:async_hooks:227:14)\n      at Test.run (node:internal/test_runner/test:1402:25)\n      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)\n      at Test.postRun (node:internal/test_runner/test:1542:19)\n      at Test.run (node:internal/test_runner/test:1467:12)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {\n    generatedMessage: true,\n    code: 'ERR_ASSERTION',\n    actual: false,\n    expected: true,\n    operator: '==',\n    diff: 'simple'\n  }\n\ntest at tests\\usuario_eliminacion_coordinar.test.mjs:511:1\n✖ DEL-FIX-06: servicios filtran diagnóstico sin reintentos ni persistencia (4.8314ms)\n  AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n  \n    assert(view.includes('if (adminGestion === g && err?.diagnostico)'))\n  \n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/usuario_eliminacion_coordinar.test.mjs:537:5)\n      at async Test.run (node:internal/test_runner/test:1409:7)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {\n    generatedMessage: true,\n    code: 'ERR_ASSERTION',\n    actual: false,\n    expected: true,\n    operator: '==',\n    diff: 'simple'\n  }\n\ntest at tests\\usuario_eliminacion_coordinar.test.mjs:565:1\n✖ DEL-FIX-08: continuación frontend conserva UUID, reconsulta y no reintenta ante red/estado cambiado (1.1198ms)\n  Error: La operación cambió o no admite continuación. Vuelve a consultarla.\n      at Object.continuarEliminacionPreparada (evalmachine.<anonymous>:237:13)\n      at async TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/usuario_eliminacion_coordinar.test.mjs:577:38)\n      at async Test.run (node:internal/test_runner/test:1409:7)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7)\n\ntest at tests\\usuario_eliminacion_coordinar.test.mjs:586:1\n✖ DEL-FIX-11: frontend muestra solo rechazo SQL permitido y conserva 409 como fallo (1.6819ms)\n  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n  \n  0 !== 2\n  \n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/usuario_eliminacion_coordinar.test.mjs:599:12)\n      at async Test.run (node:internal/test_runner/test:1409:7)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {\n    generatedMessage: true,\n    code: 'ERR_ASSERTION',\n    actual: 0,\n    expected: 2,\n    operator: 'strictEqual',\n    diff: 'simple'\n  }\n\ntest at tests\\usuario_eliminacion_coordinar.test.mjs:633:1\n✖ 365 compuertas: consultas preceden cierre, ejecución permanece bloqueada y SQL no concede lectura API (0.4589ms)\n  AssertionError [ERR_ASSERTION]: The expression evaluated to a falsy value:\n  \n    assert(edge.includes('ELIMINACION_HABILITADA: boolean = false'))\n  \n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/usuario_eliminacion_coordinar.test.mjs:637:3)\n      at Test.runInAsyncScope (node:async_hooks:227:14)\n      at Test.run (node:internal/test_runner/test:1402:25)\n      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)\n      at Test.postRun (node:internal/test_runner/test:1542:19)\n      at Test.run (node:internal/test_runner/test:1467:12)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {\n    generatedMessage: true,\n    code: 'ERR_ASSERTION',\n    actual: false,\n    expected: true,\n    operator: '==',\n    diff: 'simple'\n  }\n\n",
+      "status": "Fallido",
+      "failed_names": [
+        "364 UI: recuperación reconsulta y conserva UUID; respuesta sin confirmación nunca es éxito",
+        "364 UI: etiqueta histórica solo tras COMPLETADA exacta y formularios deshabilitados en ambos temas",
+        "DEL-FIX-06: servicios filtran diagnóstico sin reintentos ni persistencia",
+        "DEL-FIX-08: continuación frontend conserva UUID, reconsulta y no reintenta ante red/estado cambiado",
+        "DEL-FIX-11: frontend muestra solo rechazo SQL permitido y conserva 409 como fallo",
+        "365 compuertas: consultas preceden cierre, ejecución permanece bloqueada y SQL no concede lectura API"
+      ],
+      "interpretation": "6 fallos de integración UI/expectativas estáticas. Incluye exigir ELIMINACION_HABILITADA=false frente a V2 vigente. Otros casos requieren ajustar contexto y revisar respuestas; no inferir regresión productiva global.",
+      "requirements": [
+        "AUD-CAP-17"
+      ],
+      "module": "Administración"
+    },
+    {
+      "id": "T20",
+      "command": "node --test tests/cuentas_documentos_borrado_sql.test.mjs",
+      "environment": {},
+      "exit_code": 1,
+      "passed": 10,
+      "failed": 2,
+      "output": "✔ 217 estático: ensayo con rollback interno y externo, sin ejecución de RPC ni Auth (1.4597ms)\n✖ 217 estático: cambio mínimo de barrera, MD5 de todas las ramas anteriores intacto (1.0428ms)\n✔ 217 estático: RESTRICT conservado, retiro antes de documento y capacidad sin FK (0.2376ms)\n✔ 217 estático: capacidad privada transaccional, retiro confirmado y protección directa (0.1914ms)\n✔ 217 estático: Storage solo lectura, ausencia fresca y misma identidad de archivo (0.2272ms)\n✔ 217 estático: JWT, administrador, conservación sellada y pérdidas de respuesta cierran sin éxito falso (0.1663ms)\n✔ 217 estático: pre/postflight de dependencias y casos puros de evidencia alterada o ausente (0.1559ms)\n✔ 218.1 estático: COMPLETADA queda fuera de todo el bloqueo; certificados abiertos y guardas privadas se conservan (0.1625ms)\n✔ 233 estático: contrato 220 privado revisado al instalar y en ambas certificaciones (0.2293ms)\n✖ 233 estático: todos los pendientes vencidos bloquean el manifiesto global y se conserva habilita_auth=false (0.3679ms)\n✔ 251 estático: certificado exige guard de INSERT institucional, cuerpo acreditado y acceso privado (0.1837ms)\n✔ 251 estático: cierre permisivo y restrictivo de INSERT, sin alterar contratos de retiro y bytes (0.1381ms)\nℹ tests 12\nℹ suites 0\nℹ pass 10\nℹ fail 2\nℹ cancelled 0\nℹ skipped 0\nℹ todo 0\nℹ duration_ms 79.2036\n\n✖ failing tests:\n\ntest at tests\\cuentas_documentos_borrado_sql.test.mjs:15:1\n✖ 217 estático: cambio mínimo de barrera, MD5 de todas las ramas anteriores intacto (1.0428ms)\n  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n  \n  7 !== 3\n  \n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/cuentas_documentos_borrado_sql.test.mjs:20:9)\n      at Test.runInAsyncScope (node:async_hooks:227:14)\n      at Test.run (node:internal/test_runner/test:1402:25)\n      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)\n      at Test.postRun (node:internal/test_runner/test:1542:19)\n      at Test.run (node:internal/test_runner/test:1467:12)\n      at async startSubtestAfterBootstrap (node:internal/test_runner/harness:387:3) {\n    generatedMessage: true,\n    code: 'ERR_ASSERTION',\n    actual: 7,\n    expected: 3,\n    operator: 'strictEqual',\n    diff: 'simple'\n  }\n\ntest at tests\\cuentas_documentos_borrado_sql.test.mjs:79:1\n✖ 233 estático: todos los pendientes vencidos bloquean el manifiesto global y se conserva habilita_auth=false (0.3679ms)\n  AssertionError [ERR_ASSERTION]: Expected values to be strictly equal:\n  \n  2 !== 3\n  \n      at TestContext.<anonymous> (file:///[RAIZ_LOCAL]/tests/cuentas_documentos_borrado_sql.test.mjs:81:9)\n      at Test.runInAsyncScope (node:async_hooks:227:14)\n      at Test.run (node:internal/test_runner/test:1402:25)\n      at Test.processPendingSubtests (node:internal/test_runner/test:974:18)\n      at Test.postRun (node:internal/test_runner/test:1542:19)\n      at Test.run (node:internal/test_runner/test:1467:12)\n      at async Test.processPendingSubtests (node:internal/test_runner/test:974:7) {\n    generatedMessage: true,\n    code: 'ERR_ASSERTION',\n    actual: 2,\n    expected: 3,\n    operator: 'strictEqual',\n    diff: 'simple'\n  }\n\n",
+      "status": "Fallido",
+      "failed_names": [
+        "217 estático: cambio mínimo de barrera, MD5 de todas las ramas anteriores intacto",
+        "233 estático: todos los pendientes vencidos bloquean el manifiesto global y se conserva habilita_auth=false"
+      ],
+      "interpretation": "10/12; 2 aserciones estáticas de conteos MD5/barreras históricas no coinciden. No compara funciones SQL realmente alojadas.",
+      "requirements": [
+        "AUD-CAP-16",
+        "AUD-CAP-27"
+      ],
+      "module": "Documentos / Infraestructura"
+    }
+  ],
+  "syntax": [
+    {
+      "path": "js/adminAcceso.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/app.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/avisosSolicitudes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/controlSesion.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/modals.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/recuperarPassword.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/registrar.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/seguridadPersonal.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/state.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/conservacion-historica.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/contratos-instalados.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/cuentas_documentos_borrado_sql.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/gestion_tareas.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_admin_acceso.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_admin_eliminacion_ui.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_admin_reautenticacion.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_areas.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_auth.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_banos.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_bodegas.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_c2e3.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_configuracion.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_dashboard.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_gantt.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_gantt_edicion.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_historial_sesion.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_inicializacion.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_inv4.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_inv_fichas.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_logout.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_notificacion_rechazo.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_prevercel0.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_prevercel3.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_reactiva_broadcast.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_reactiva_broadcast_ui.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_reactiva_eliminacion.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_reactiva_eliminacion_carga.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_reactiva_eliminacion_sesion.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_reactiva_eliminacion_ui.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_reactiva_multisesion_correcciones.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_reactiva_multisesion_correcciones_ui.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_solicitudes_consulta.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_tailwind.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_usuarios_gestion.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/harness_ux02_modales.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/trabajadores_organizacion.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_adaptador_sql_instalado.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_certificacion_recepcion_propuesta.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_conservacion_historica.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_conservacion_previa.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_contratos_instalados.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_eliminacion_coordinar.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_eliminacion_http.deno.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_eliminacion_preparar.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_eliminacion_previsualizar.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_invitaciones.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_previsualizacion_frontend.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_reautenticacion_servidor.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/usuario_seguridad_paso192.test.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tools/auditar-rutas-eliminacion.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tools/tailwind.config.cjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/components/calendarioMensual.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/components/ganttCarta.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/config/supabaseClient.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/avisosSolicitudes.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/ganttProyectos.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/gestionTareas.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/historial.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/inventario.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/mantenciones.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/mantencionesReactivas.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/mejoras.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/prevencionDocumentos.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/remodelaciones.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/solicitudes.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/tareasPendientes.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/trabajadores.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/trabajadoresDocumentos.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/services/usuarios.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/activos.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/admin.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/areas.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/configuracion.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/dashboard.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/gantt.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/gestionTareas.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/importar.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/inventario.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/jardineriaArea.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/mantenciones.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/mejoras.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/notificaciones.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/pendingAccount.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/prevencionista.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/reactiva.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/remodelaciones.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/solicitudes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/tareasPendientes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "js/views/trabajadores.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/adminAcceso.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/app.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/avisosSolicitudes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/controlSesion.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/modals.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/recuperarPassword.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/registrar.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/seguridadPersonal.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/state.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/components/calendarioMensual.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/components/ganttCarta.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/config/supabaseClient.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/avisosSolicitudes.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/ganttProyectos.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/gestionTareas.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/historial.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/inventario.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/mantenciones.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/mantencionesReactivas.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/mejoras.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/prevencionDocumentos.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/remodelaciones.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/solicitudes.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/tareasPendientes.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/trabajadores.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/trabajadoresDocumentos.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/services/usuarios.service.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/activos.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/admin.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/areas.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/configuracion.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/dashboard.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/gantt.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/gestionTareas.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/importar.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/inventario.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/jardineriaArea.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/mantenciones.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/mejoras.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/notificaciones.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/pendingAccount.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/prevencionista.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/reactiva.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/remodelaciones.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/solicitudes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/tareasPendientes.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "publicacion/js/views/trabajadores.js",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/adaptador-sql-instalado.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/conservacion-previa.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/database-safety.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/eliminacion-coordinar.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/eliminacion-preparar.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/handler.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "supabase/functions/usuario-eliminacion-previsualizar/reautenticacion-servidor.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "supabase/functions/usuario-invitaciones/documentos.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "supabase/functions/usuario-invitaciones/invitaciones.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "supabase/functions/usuario-invitaciones/manual-store.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "supabase/functions/usuario-invitaciones/manual.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "supabase/functions/usuario-invitaciones/postgres-store.mjs",
+      "ok": true,
+      "error": ""
+    },
+    {
+      "path": "tests/manual/gestion-tareas.mock.js",
+      "ok": true,
+      "error": ""
+    }
+  ],
+  "mirror": [
+    {
+      "root": "favicon-el-almendro.ico",
+      "same": true
+    },
+    {
+      "root": "index.html",
+      "same": true
+    },
+    {
+      "root": "login.html",
+      "same": true
+    },
+    {
+      "root": "recuperar-password.html",
+      "same": true
+    },
+    {
+      "root": "registrar.html",
+      "same": true
+    },
+    {
+      "root": "css/styles.css",
+      "same": true
+    },
+    {
+      "root": "css/tailwind.css",
+      "same": true
+    },
+    {
+      "root": "css/ui-system.css",
+      "same": false
+    },
+    {
+      "root": "js/adminAcceso.js",
+      "same": true
+    },
+    {
+      "root": "js/app.js",
+      "same": true
+    },
+    {
+      "root": "js/avisosSolicitudes.js",
+      "same": true
+    },
+    {
+      "root": "js/controlSesion.js",
+      "same": true
+    },
+    {
+      "root": "js/modals.js",
+      "same": true
+    },
+    {
+      "root": "js/recuperarPassword.js",
+      "same": true
+    },
+    {
+      "root": "js/registrar.js",
+      "same": true
+    },
+    {
+      "root": "js/seguridadPersonal.js",
+      "same": true
+    },
+    {
+      "root": "js/state.js",
+      "same": true
+    },
+    {
+      "root": "js/components/calendarioMensual.js",
+      "same": true
+    },
+    {
+      "root": "js/components/ganttCarta.js",
+      "same": true
+    },
+    {
+      "root": "js/config/supabaseClient.js",
+      "same": true
+    },
+    {
+      "root": "js/services/avisosSolicitudes.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/ganttProyectos.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/gestionTareas.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/historial.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/inventario.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/mantenciones.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/mantencionesReactivas.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/mejoras.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/prevencionDocumentos.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/remodelaciones.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/solicitudes.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/tareasPendientes.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/trabajadores.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/trabajadoresDocumentos.service.js",
+      "same": true
+    },
+    {
+      "root": "js/services/usuarios.service.js",
+      "same": false
+    },
+    {
+      "root": "js/views/activos.js",
+      "same": true
+    },
+    {
+      "root": "js/views/admin.js",
+      "same": false
+    },
+    {
+      "root": "js/views/areas.js",
+      "same": false
+    },
+    {
+      "root": "js/views/configuracion.js",
+      "same": true
+    },
+    {
+      "root": "js/views/dashboard.js",
+      "same": true
+    },
+    {
+      "root": "js/views/gantt.js",
+      "same": true
+    },
+    {
+      "root": "js/views/gestionTareas.js",
+      "same": true
+    },
+    {
+      "root": "js/views/importar.js",
+      "same": true
+    },
+    {
+      "root": "js/views/inventario.js",
+      "same": false
+    },
+    {
+      "root": "js/views/jardineriaArea.js",
+      "same": false
+    },
+    {
+      "root": "js/views/mantenciones.js",
+      "same": false
+    },
+    {
+      "root": "js/views/mejoras.js",
+      "same": false
+    },
+    {
+      "root": "js/views/notificaciones.js",
+      "same": true
+    },
+    {
+      "root": "js/views/pendingAccount.js",
+      "same": true
+    },
+    {
+      "root": "js/views/prevencionista.js",
+      "same": true
+    },
+    {
+      "root": "js/views/reactiva.js",
+      "same": true
+    },
+    {
+      "root": "js/views/remodelaciones.js",
+      "same": true
+    },
+    {
+      "root": "js/views/solicitudes.js",
+      "same": true
+    },
+    {
+      "root": "js/views/tareasPendientes.js",
+      "same": false
+    },
+    {
+      "root": "js/views/trabajadores.js",
+      "same": true
+    }
+  ],
+  "references": [
+    {
+      "html": "index.html",
+      "ref": "./favicon-el-almendro.ico?v=web01b",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/config/supabaseClient.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/controlSesion.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./css/tailwind.css",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./css/styles.css",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./css/ui-system.css",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/state.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/mantenciones.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/historial.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/mejoras.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/trabajadores.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/trabajadoresDocumentos.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/usuarios.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/prevencionDocumentos.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/inventario.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/components/ganttCarta.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/components/calendarioMensual.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/dashboard.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/mantenciones.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/areas.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/jardineriaArea.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/trabajadores.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/inventario.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/prevencionista.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/ganttProyectos.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/gantt.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/mejoras.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/remodelaciones.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/remodelaciones.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/solicitudes.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/solicitudes.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/tareasPendientes.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/gestionTareas.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/gestionTareas.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/mantencionesReactivas.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/reactiva.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/notificaciones.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/services/avisosSolicitudes.service.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/avisosSolicitudes.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/importar.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/configuracion.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/seguridadPersonal.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/adminAcceso.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/admin.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/views/pendingAccount.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/modals.js",
+      "exists": true
+    },
+    {
+      "html": "index.html",
+      "ref": "./js/app.js",
+      "exists": true
+    },
+    {
+      "html": "login.html",
+      "ref": "./favicon-el-almendro.ico?v=web01b",
+      "exists": true
+    },
+    {
+      "html": "login.html",
+      "ref": "./css/tailwind.css",
+      "exists": true
+    },
+    {
+      "html": "login.html",
+      "ref": "./css/styles.css",
+      "exists": true
+    },
+    {
+      "html": "login.html",
+      "ref": "./css/ui-system.css",
+      "exists": true
+    },
+    {
+      "html": "login.html",
+      "ref": "./js/config/supabaseClient.js",
+      "exists": true
+    },
+    {
+      "html": "login.html",
+      "ref": "./js/controlSesion.js",
+      "exists": true
+    },
+    {
+      "html": "recuperar-password.html",
+      "ref": "./favicon-el-almendro.ico?v=web01b",
+      "exists": true
+    },
+    {
+      "html": "recuperar-password.html",
+      "ref": "./css/tailwind.css",
+      "exists": true
+    },
+    {
+      "html": "recuperar-password.html",
+      "ref": "./css/styles.css",
+      "exists": true
+    },
+    {
+      "html": "recuperar-password.html",
+      "ref": "./css/ui-system.css",
+      "exists": true
+    },
+    {
+      "html": "recuperar-password.html",
+      "ref": "./js/config/supabaseClient.js",
+      "exists": true
+    },
+    {
+      "html": "recuperar-password.html",
+      "ref": "./js/recuperarPassword.js",
+      "exists": true
+    },
+    {
+      "html": "registrar.html",
+      "ref": "./favicon-el-almendro.ico?v=web01b",
+      "exists": true
+    },
+    {
+      "html": "registrar.html",
+      "ref": "./css/tailwind.css",
+      "exists": true
+    },
+    {
+      "html": "registrar.html",
+      "ref": "./css/styles.css",
+      "exists": true
+    },
+    {
+      "html": "registrar.html",
+      "ref": "./css/ui-system.css",
+      "exists": true
+    },
+    {
+      "html": "registrar.html",
+      "ref": "./js/config/supabaseClient.js",
+      "exists": true
+    },
+    {
+      "html": "registrar.html",
+      "ref": "./js/registrar.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./favicon-el-almendro.ico?v=web01b",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/config/supabaseClient.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/controlSesion.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./css/tailwind.css",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./css/styles.css",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./css/ui-system.css",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/state.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/mantenciones.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/historial.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/mejoras.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/trabajadores.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/trabajadoresDocumentos.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/usuarios.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/prevencionDocumentos.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/inventario.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/components/ganttCarta.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/components/calendarioMensual.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/dashboard.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/mantenciones.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/areas.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/jardineriaArea.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/trabajadores.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/inventario.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/prevencionista.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/ganttProyectos.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/gantt.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/mejoras.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/remodelaciones.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/remodelaciones.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/solicitudes.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/solicitudes.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/tareasPendientes.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/gestionTareas.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/gestionTareas.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/mantencionesReactivas.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/reactiva.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/notificaciones.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/services/avisosSolicitudes.service.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/avisosSolicitudes.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/importar.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/configuracion.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/seguridadPersonal.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/adminAcceso.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/admin.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/views/pendingAccount.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/modals.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/index.html",
+      "ref": "./js/app.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/login.html",
+      "ref": "./favicon-el-almendro.ico?v=web01b",
+      "exists": true
+    },
+    {
+      "html": "publicacion/login.html",
+      "ref": "./css/tailwind.css",
+      "exists": true
+    },
+    {
+      "html": "publicacion/login.html",
+      "ref": "./css/styles.css",
+      "exists": true
+    },
+    {
+      "html": "publicacion/login.html",
+      "ref": "./css/ui-system.css",
+      "exists": true
+    },
+    {
+      "html": "publicacion/login.html",
+      "ref": "./js/config/supabaseClient.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/login.html",
+      "ref": "./js/controlSesion.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/recuperar-password.html",
+      "ref": "./favicon-el-almendro.ico?v=web01b",
+      "exists": true
+    },
+    {
+      "html": "publicacion/recuperar-password.html",
+      "ref": "./css/tailwind.css",
+      "exists": true
+    },
+    {
+      "html": "publicacion/recuperar-password.html",
+      "ref": "./css/styles.css",
+      "exists": true
+    },
+    {
+      "html": "publicacion/recuperar-password.html",
+      "ref": "./css/ui-system.css",
+      "exists": true
+    },
+    {
+      "html": "publicacion/recuperar-password.html",
+      "ref": "./js/config/supabaseClient.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/recuperar-password.html",
+      "ref": "./js/recuperarPassword.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/registrar.html",
+      "ref": "./favicon-el-almendro.ico?v=web01b",
+      "exists": true
+    },
+    {
+      "html": "publicacion/registrar.html",
+      "ref": "./css/tailwind.css",
+      "exists": true
+    },
+    {
+      "html": "publicacion/registrar.html",
+      "ref": "./css/styles.css",
+      "exists": true
+    },
+    {
+      "html": "publicacion/registrar.html",
+      "ref": "./css/ui-system.css",
+      "exists": true
+    },
+    {
+      "html": "publicacion/registrar.html",
+      "ref": "./js/config/supabaseClient.js",
+      "exists": true
+    },
+    {
+      "html": "publicacion/registrar.html",
+      "ref": "./js/registrar.js",
+      "exists": true
+    }
+  ],
+  "original_artifacts": {
+    "docs/01_Informe_Auditoria_y_Pruebas.docx": "b48164975bc6b035aeebdaf1e18b664539696d41b87c6ec7d2bc58175793f803",
+    "docs/02_Matriz_Trazabilidad_Preliminar.xlsx": "b5441377f9346b36b95342af51746c489003b23fc8e6f48c49f8b8405e8b00f8",
+    "docs/03_Alcance_y_Limitaciones.docx": "ae2533c1e2263d19c0adc8272648c63aead1ad2813ee32e022245b4916fb58e2",
+    "docs/04_Registro_Casos_Pruebas.xlsx": "b2823c35a76386c7d75f725fae6d564aa82fc7b81f5f7d75f5454c083938301a"
+  },
+  "summary": {
+    "executions": 20,
+    "successful_executions": 9,
+    "failed_executions": 11,
+    "node_cases": 375,
+    "node_pass": 359,
+    "node_fail": 16,
+    "details": 657,
+    "detail_pass": 634,
+    "detail_fail": 23,
+    "manual_planned": 17,
+    "requirements": 32,
+    "original_requirement_ids": 4,
+    "jira_verified": 0
+  },
+  "artifact_quality_control": {
+    "scope": "Archivos académicos y evidencia; código productivo intacto según SHA-256 de todos los archivos iniciales.",
+    "word": [
+      {
+        "file": "01_Informe_Auditoria_y_Pruebas.docx",
+        "pages": 8,
+        "toc_entries_verified": 12,
+        "native_word_opened": true,
+        "fields_updated_in_word": true,
+        "all_pages_visually_inspected": true,
+        "institutional_images_identical": true,
+        "header_footer_text_preserved": true,
+        "page_geometry_preserved": true
+      },
+      {
+        "file": "03_Alcance_y_Limitaciones.docx",
+        "pages": 7,
+        "toc_entries_verified": 11,
+        "native_word_opened": true,
+        "fields_updated_in_word": true,
+        "all_pages_visually_inspected": true,
+        "institutional_images_identical": true,
+        "header_footer_text_preserved": true,
+        "page_geometry_preserved": true
+      }
+    ],
+    "workbooks": [
+      {
+        "file": "02_Matriz_Trazabilidad_Preliminar.xlsx",
+        "sheets": [
+          "Trazabilidad",
+          "Instrucciones",
+          "Resumen"
+        ],
+        "xml_zip_readable": true,
+        "formula_errors": [],
+        "native_tables_and_filters": 2,
+        "all_sheets_visually_sampled": true,
+        "native_excel_opened": false
+      },
+      {
+        "file": "04_Registro_Casos_Pruebas.xlsx",
+        "sheets": [
+          "Casos funcionales",
+          "Auditoría Codex",
+          "Resultados históricos",
+          "Instrucciones",
+          "Ejecuciones actuales",
+          "Detalle automatizado",
+          "Resumen"
+        ],
+        "xml_zip_readable": true,
+        "formula_errors": [],
+        "native_tables_and_filters": 4,
+        "all_sheets_visually_sampled": true,
+        "native_excel_opened": false
+      }
+    ]
+  },
+  "scope_boundaries": [
+    "Sin cambios de código/SQL/configuración",
+    "Sin llamadas productivas ni escrituras reales",
+    "Sin commit/push/despliegue",
+    "Git/Jira no verificables en esta copia/sesión",
+    "Resultados históricos conservados como informados"
+  ],
+  "final_artifacts": {
+    "01_Informe_Auditoria_y_Pruebas.docx": "2f69a687ced1e58dfd4e4d25f91945b4a318aae4c430e5f215703e31e982f340",
+    "02_Matriz_Trazabilidad_Preliminar.xlsx": "76f5234344645d1756334099baf38f5634dbb41b964261efb6f2fdc54f8b5d5c",
+    "03_Alcance_y_Limitaciones.docx": "474d4600c2bc354481ba72bb7dfc9ad6a4405f9ea20b910a5b45ec9a2dd79fdb",
+    "04_Registro_Casos_Pruebas.xlsx": "ebe26662c44b2ebc6e31bd66a9877bd0b55507089ab3a58736d7051991acfd19"
+  }
+}
