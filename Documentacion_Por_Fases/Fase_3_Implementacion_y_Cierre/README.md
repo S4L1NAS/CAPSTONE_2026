@@ -1,16 +1,21 @@
 # Fase 3 — Implementación y cierre
 
-Contiene la documentación de soporte del cierre académico:
+## Informe de estado y alcance
+- [Alcance y limitaciones](01_Informe_Final/03_Alcance_y_Limitaciones.docx)
+- [Informe de estado del cierre (pendiente de aceptación)](01_Informe_Final/04_Cierre_Documental_Pendiente_Aprobacion.docx)
 
-- [`01_Informe_Final/03_Alcance_y_Limitaciones.docx`](01_Informe_Final/03_Alcance_y_Limitaciones.docx)
-- [`02_Pruebas_y_Validacion/01_Informe_Auditoria_y_Pruebas.docx`](02_Pruebas_y_Validacion/01_Informe_Auditoria_y_Pruebas.docx)
-- [`02_Pruebas_y_Validacion/02_Matriz_Trazabilidad_Con_Jira_BP2026.xlsx`](02_Pruebas_y_Validacion/02_Matriz_Trazabilidad_Con_Jira_BP2026.xlsx)
-- [`02_Pruebas_y_Validacion/04_Registro_Casos_Pruebas.xlsx`](02_Pruebas_y_Validacion/04_Registro_Casos_Pruebas.xlsx)
-- [`02_Pruebas_y_Validacion/05_Evidencias_Auditoria_2026-11-18.json`](02_Pruebas_y_Validacion/05_Evidencias_Auditoria_2026-11-18.json)
-- [`02_Pruebas_y_Validacion/06_Seguimiento_Cierre_Jira_BPB_2026.xlsx`](02_Pruebas_y_Validacion/06_Seguimiento_Cierre_Jira_BPB_2026.xlsx)
+## Pruebas y validación
+- [Auditoría y pruebas](02_Pruebas_y_Validacion/01_Informe_Auditoria_y_Pruebas.docx)
+- [Trazabilidad con Jira](02_Pruebas_y_Validacion/02_Matriz_Trazabilidad_Con_Jira_BP2026.xlsx)
+- [Plan de pruebas y validación](02_Pruebas_y_Validacion/03_Plan_de_Pruebas_y_Validacion.docx)
+- [Registro de casos de prueba](02_Pruebas_y_Validacion/04_Registro_Casos_Pruebas.xlsx)
+- [Evidencias de auditoría](02_Pruebas_y_Validacion/05_Evidencias_Auditoria_2026-11-18.json)
+- [Seguimiento del cierre](02_Pruebas_y_Validacion/06_Seguimiento_Cierre_Jira_BPB_2026.xlsx)
 
-**Aclaraciones:** la trazabilidad Jira incluye relaciones propuestas que requieren homologación; las pruebas fallidas se mantienen como evidencia y la validación final del stakeholder no está confirmada. Los `.md` internos con títulos similares son borradores preliminares, no equivalen automáticamente a los archivos definitivos.
+## Manuales y despliegue
+- [Manual de usuario por rol](03_Manuales_y_Despliegue/01_Manual_Usuario_por_Rol.docx)
+- [Guía de implementación y despliegue](03_Manuales_y_Despliegue/02_Guia_Implementacion_y_Despliegue.docx)
 
-**Pendientes a decidir según pauta:** manuales de usuario, guía de implementación/despliegue, evidencia formal de aceptación, informe grupal final y presentación de la tercera entrega. Los entregables grupales se ubican en [`Entregas_Grupales/Entrega_3`](../../Entregas_Grupales/Entrega_3/).
+**Estado:** el registro de pruebas y las auditorías conservan sus resultados históricos. Las pruebas manuales y la aceptación del representante del hotel requieren evidencia adicional; no se declaran aprobadas.
 
-Marco de gestión: **Scrum**. Fases académicas: planificación, desarrollo e implementación/cierre.
+La entrega académica formal debe ubicarse únicamente en [Entrega grupal 3](../../Entregas_Grupales/Entrega_3/), una vez confirmada.

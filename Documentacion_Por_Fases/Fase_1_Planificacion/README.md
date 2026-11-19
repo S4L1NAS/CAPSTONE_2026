@@ -1,7 +1,9 @@
 # Fase 1 — Planificación
 
-Esta carpeta se reserva para la **documentación de planificación** y sus evidencias de trabajo, separadas de los entregables grupales.
+Documentación inicial propia de esta fase:
 
-El informe y la presentación iniciales ya están en [`Entregas_Grupales/Entrega_1`](../../Entregas_Grupales/Entrega_1/). No se duplican aquí.
+- [Análisis de problemática, objetivos y alcance](01_Analisis_Problematica_Objetivos_y_Alcance.docx)
+- [Planificación Scrum y backlog](02_Planificacion_Scrum_y_Backlog.docx)
+- [Registro de riesgos](03_Registro_Riesgos.xlsx)
 
-**Estado comprobado:** no hay documentos adicionales de planificación en esta rama. Identificar y reutilizar contenido existente antes de crear archivos nuevos. La gestión del proyecto corresponde a **Scrum**, independientemente de las tres fases académicas.
+El informe y la presentación entregados formalmente se conservan solo en [Entrega grupal 1](../../Entregas_Grupales/Entrega_1/). Las fases son hitos académicos; Scrum es el marco de gestión.

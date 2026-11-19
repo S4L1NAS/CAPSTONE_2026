@@ -1,17 +1,9 @@
 # Aplicación final — Hotel El Almendro
 
-El código fuente operativo del sistema se mantiene en el repositorio de desarrollo [Pablok00/pruebaelalmendro](https://github.com/Pablok00/pruebaelalmendro), separado de este repositorio académico. Ese repositorio es privado y requiere acceso autorizado.
+El código fuente operativo se mantiene en el repositorio privado [Pablok00/pruebaelalmendro](https://github.com/Pablok00/pruebaelalmendro). El acceso requiere autorización del propietario.
 
-## Tecnologías
-HTML, CSS y JavaScript; Supabase y PostgreSQL para datos y autenticación; Vercel para alojar la interfaz.
+La aplicación utiliza HTML, CSS y JavaScript, Supabase/PostgreSQL y Vercel. La documentación de [despliegue](../Documentacion_Por_Fases/Fase_3_Implementacion_y_Cierre/03_Manuales_y_Despliegue/02_Guia_Implementacion_y_Despliegue.docx) describe cómo preparar y verificar una publicación autorizada.
 
-## Entrega de código
-El archivo comprimido `pruebaelalmendro.rar` se revisó como copia de trabajo y contiene metadatos internos `.git/` y diferencias entre la raíz y `publicacion/`. **No se considera automáticamente una versión de producción ni se publica aquí íntegramente**, para evitar duplicación y exposición de información.
+Se revisó una copia comprimida `pruebaelalmendro.rar`, que contiene historial `.git` y diferencias entre raíz y `publicacion/`. No debe considerarse automáticamente la versión publicada; no se incorpora aquí para evitar duplicar el repositorio privado o divulgar su código.
 
-Para reproducir la versión final se requiere identificar un commit del repositorio operativo, verificar su correspondencia con la publicación en Vercel y documentar las pruebas y autorizaciones pendientes.
-
-## Documentación de soporte
-- [Documentación por fases](../Documentacion_Por_Fases/README.md)
-- [Entregas grupales](../Entregas_Grupales/README.md)
-
-**Estado:** referencia de entrega; validación funcional y aceptación del hotel pendientes de evidencia.
+**Pendiente:** vincular el commit exacto de la versión final, comprobar el despliegue y documentar pruebas y conformidad.

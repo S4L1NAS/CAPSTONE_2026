@@ -1,11 +1,9 @@
 # Fase 2 — Desarrollo
 
-Documentación técnica y académica del desarrollo:
+Documentación técnica y de trabajo:
 
-- [`Documentacion/`](Documentacion/): análisis y visión, roadmap, impact mapping, user story mapping, arquitectura, modelo de datos, matriz de requerimientos V2, matriz editable original y bitácora.
-- [`Evidencias_Proyecto/Documentacion/`](Evidencias_Proyecto/Documentacion/): diagramas de arquitectura y relaciones disponibles.
-- [`Evidencias_Proyecto/Sistema/`](Evidencias_Proyecto/Sistema/): ubicación para evidencias visuales revisadas; pendiente de incorporar capturas verificadas.
+- [Análisis, arquitectura, requisitos y diagramas](Documentacion/)
+- [Registro de cambios del proyecto](Documentacion/Registro_Control_Cambios.docx)
+- [Evidencias y diagramas](Evidencias_Proyecto/Documentacion/)
 
-El informe de avance español/inglés y la **segunda presentación PDF** se encuentran en [`Entregas_Grupales/Entrega_2`](../../Entregas_Grupales/Entrega_2/).
-
-**Gestión:** Scrum, utilizando sprints y Jira. Las fases académicas no son sprints.
+Los informes y presentación formal de Entrega 2 se conservan en [Entregas grupales](../../Entregas_Grupales/Entrega_2/). No se duplican las entregas.
