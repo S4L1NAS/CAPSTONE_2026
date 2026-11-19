@@ -1,9 +1,10 @@
 # Entregas grupales — Capstone BPB 2026
 
-Contiene solo los productos presentados formalmente como entregas de equipo, sin duplicar la documentación técnica por fases.
+Los entregables presentados formalmente se organizan por etapa académica.
 
-- [Entrega 1 — Planificación](Entrega_1/): informe inicial y primera presentación.
-- [Entrega 2 — Desarrollo](Entrega_2/): dos informes de avance y segunda presentación en PDF.
-- [Entrega 3 — Implementación y cierre](Entrega_3/): pendientes de incorporar los documentos grupales finales, previa comprobación de la pauta.
+- [Entrega 1 — Planificación](Entrega_1/): informe y primera presentación.
+- [Entrega 2 — Desarrollo](Entrega_2/): informes de avance y segunda presentación.
 
-La documentación técnica y de soporte está en [`Documentacion_Por_Fases`](../Documentacion_Por_Fases/README.md). **Scrum** es el marco de trabajo del proyecto; las entregas académicas no son sprints.
+La **Entrega 3 — Implementación y cierre** se incorporará cuando se disponga de sus archivos definitivos.
+
+La documentación técnica y de soporte permanece en [Documentación por fases](../Documentacion_Por_Fases/README.md), para evitar duplicar los mismos archivos.
